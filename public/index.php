@@ -294,7 +294,7 @@
         <div class="space-y-4">
           <img src="Images/logo2.svg" alt="Company Logo" class="h-16 md:h-20">
           <p class="text-gray-300 text-sm md:text-base max-w-xs">
-            Your company description or tagline goes here. Inspire creativity and innovation.
+          Where ideas grow into innovation and creativity drives everything we do.
           </p>
         </div>
         
