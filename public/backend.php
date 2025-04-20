@@ -11,7 +11,7 @@ $events = json_decode(file_get_contents($filename), true);
 // Handle POST - Add a new event
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $data = json_decode(file_get_contents('php://input'), true);
-    if ($data && isset($data['name'], $data['type'], $data['date'], $data['description'])) {
+    if ($data && isset($data['name'], $data['type'], $data['date'], $data['description'], $data['image'])) {
         $events[] = $data;
         file_put_contents($filename, json_encode($events, JSON_PRETTY_PRINT));
         echo json_encode(['status' => 'success']);

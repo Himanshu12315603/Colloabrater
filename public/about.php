@@ -64,29 +64,42 @@
     <section class="py-16 px-8 md:px-16 lg:px-24 xl:px-32 bg-black bg-opacity-70 grid grid-cols-1 md:grid-cols-3 gap-8">
       <div class="bg-gray-800 rounded-xl p-8 text-center">
         <h3 class="text-xl font-semibold mb-2"><span class="highlight-btn">Music Creation</span></h3>
-        <p class="text-gray-300 text-sm">Gravity empowers artists with AI-powered tools for music composition and production...</p>
+        <p class="text-gray-300 text-sm">AI-powered tools help artists compose and produce music effortlessly with Gravity.</p>
       </div>
       <div class="bg-gray-800 rounded-xl p-8 text-center">
-        <h3 class="text-xl font-semibold mb-2"><span class="highlight-btn">Music Creation</span></h3>
-        <p class="text-gray-300 text-sm">Gravity empowers artists with AI-powered tools for music composition and production...</p>
+        <h3 class="text-xl font-semibold mb-2"><span class="highlight-btn">Content Collaboration</span></h3>
+        <p class="text-gray-300 text-sm">Connect and collaborate with fellow creators across music, gaming, and podcasts.</p>
       </div>
       <div class="bg-gray-800 rounded-xl p-8 text-center">
-        <h3 class="text-xl font-semibold mb-2"><span class="highlight-btn">Music Creation</span></h3>
-        <p class="text-gray-300 text-sm">Gravity empowers artists with AI-powered tools for music composition and production...</p>
+        <h3 class="text-xl font-semibold mb-2"><span class="highlight-btn">Fan Engagement</span></h3>
+        <p class="text-gray-300 text-sm">Use interactive tools and community features to build stronger fan relationships.</p>
       </div>
       <div class="bg-gray-800 rounded-xl p-8 text-center">
-        <h3 class="text-xl font-semibold mb-2"><span class="highlight-btn">Music Creation</span></h3>
-        <p class="text-gray-300 text-sm">Gravity empowers artists with AI-powered tools for music composition and production...</p>
+        <h3 class="text-xl font-semibold mb-2"><span class="highlight-btn">Podcast Production</span></h3>
+        <p class="text-gray-300 text-sm">Record, edit, and publish your podcast with studio-quality tools from Gravity.</p>
       </div>
       <div class="bg-gray-800 rounded-xl p-8 text-center">
-        <h3 class="text-xl font-semibold mb-2"><span class="highlight-btn">Music Marketing</span></h3>
-        <p class="text-gray-300 text-sm">Marketing through playlists, sync publishing, brand collabs, and festivals...</p>
+        <h3 class="text-xl font-semibold mb-2"><span class="highlight-btn">Gaming (BGMI)</span></h3>
+        <p class="text-gray-300 text-sm">Support for BGMI creators to stream, monetize, and grow their gaming communities.</p>
       </div>
       <div class="bg-gray-800 rounded-xl p-8 text-center">
-        <h3 class="text-xl font-semibold mb-2"><span class="highlight-btn">Music Distribution</span></h3>
-        <p class="text-gray-300 text-sm">Gravity helps artists distribute to 150+ platforms globally...</p>
+        <h3 class="text-xl font-semibold mb-2"><span class="highlight-btn">Live Events</span></h3>
+        <p class="text-gray-300 text-sm">Host or join live music and gaming events powered by Gravity’s platform.</p>
+      </div>
+      <div class="bg-gray-800 rounded-xl p-8 text-center">
+        <h3 class="text-xl font-semibold mb-2"><span class="highlight-btn">Talent Discovery</span></h3>
+        <p class="text-gray-300 text-sm">We scout and spotlight emerging creators across music, games, and podcasts.</p>
+      </div>
+      <div class="bg-gray-800 rounded-xl p-8 text-center">
+        <h3 class="text-xl font-semibold mb-2"><span class="highlight-btn">Monetization</span></h3>
+        <p class="text-gray-300 text-sm">From subscriptions to brand deals, we help creators turn passion into profit.</p>
+      </div>
+      <div class="bg-gray-800 rounded-xl p-8 text-center">
+        <h3 class="text-xl font-semibold mb-2"><span class="highlight-btn">Creator Tools</span></h3>
+        <p class="text-gray-300 text-sm">Analytics, content management, AI enhancements—all in one dashboard.</p>
       </div>
     </section>
+    
 
     <section class="py-16 px-8 md:px-16 lg:px-24 xl:px-32 bg-black bg-opacity-70 text-center">
       <h2 class="text-3xl lg:text-4xl font-bold mb-8"><span class="highlight-gravity">We</span> promote local talents and fresh music across the globe.</h2>
