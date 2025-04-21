@@ -66,11 +66,11 @@
         </div>
         <div class="bg-gray-900 rounded-lg p-6 flex items-center" data-aos="fade-right" data-aos-duration="1000">
           <div class="highlight-btn rounded-md py-2 px-4 mr-4 font-semibold">Phone</div>
-          <p class="text-gray-300 text-sm">+1 (800) 123-4567</p>
+          <p class="text-gray-300 text-sm">+0195084817u3</p>
         </div>
         <div class="bg-gray-900 rounded-lg p-6 flex items-center" data-aos="fade-left" data-aos-duration="1200">
           <div class="highlight-btn rounded-md py-2 px-4 mr-4 font-semibold">Address</div>
-          <p class="text-gray-300 text-sm">123 Music Street, Los Angeles, CA</p>
+          <p class="text-gray-300 text-sm">Main street, DakBanglo road, Bengluru</p>
         </div>
         <div class="bg-gray-900 rounded-lg p-6 flex items-center" data-aos="fade-right" data-aos-duration="1200">
           <div class="highlight-btn rounded-md py-2 px-4 mr-4 font-semibold">Social Media</div>
@@ -91,9 +91,9 @@
 
     <!-- Member 1: Nitish Kumar -->
     <div class="relative bg-gray-900 rounded-xl p-8 shadow-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl" data-aos="fade-up" data-aos-duration="800">
-      <img src="https://via.placeholder.com/200" alt="Nitish Kumar" class="w-24 h-24 mx-auto rounded-full object-cover -mt-16 border-4 border-black">
+      <img src="Images/ck.jpeg" alt="Nitish Kumar" class="w-24 h-24 mx-auto rounded-full object-cover -mt-16 border-4 border-black">
       <h3 class="text-xl font-semibold text-white mt-6">Nitish Kumar</h3>
-      <p class="text-orange-400 mb-4">Frontend Developer</p>
+      <p class="text-orange-400 mb-4">Cheif Technical Officer  <br>Frontend Developer <br>UI/UX Designer</p>
       <div class="flex justify-center space-x-4 text-gray-400">
         <a href="#" class="hover:text-orange-400 transition"><i class="fab fa-linkedin"></i></a>
         <a href="#" class="hover:text-orange-400 transition"><i class="fab fa-twitter"></i></a>
@@ -103,9 +103,9 @@
 
     <!-- Member 2: Himanshu -->
     <div class="relative bg-gray-900 rounded-xl p-8 shadow-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl" data-aos="fade-up" data-aos-duration="900">
-      <img src="https://via.placeholder.com/200" alt="Himanshu" class="w-24 h-24 mx-auto rounded-full object-cover -mt-16 border-4 border-black">
+      <img src="Images/hk.jpg" alt="Himanshu" class="w-24 h-24 mx-auto rounded-full object-cover -mt-16 border-4 border-black">
       <h3 class="text-xl font-semibold text-white mt-6">Himanshu</h3>
-      <p class="text-orange-400 mb-4">UI/UX Designer</p>
+      <p class="text-orange-400 mb-4">Jr Developer</p>
       <div class="flex justify-center space-x-4 text-gray-400">
         <a href="#" class="hover:text-orange-400 transition"><i class="fab fa-linkedin"></i></a>
         <a href="#" class="hover:text-orange-400 transition"><i class="fab fa-twitter"></i></a>
@@ -115,7 +115,7 @@
 
     <!-- Member 3: Shanta Manan -->
     <div class="relative bg-gray-900 rounded-xl p-8 shadow-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl" data-aos="fade-up" data-aos-duration="1000">
-      <img src="https://via.placeholder.com/200" alt="Shanta Manan" class="w-24 h-24 mx-auto rounded-full object-cover -mt-16 border-4 border-black">
+      <img src="Images/sk.jpeg" alt="Shanta Manan" class="w-24 h-24 mx-auto rounded-full object-cover -mt-16 border-4 border-black">
       <h3 class="text-xl font-semibold text-white mt-6">Shanta Manan</h3>
       <p class="text-orange-400 mb-4">Backend Engineer</p>
       <div class="flex justify-center space-x-4 text-gray-400">
@@ -127,9 +127,9 @@
 
     <!-- Member 4: Abhishek -->
     <div class="relative bg-gray-900 rounded-xl p-8 shadow-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl" data-aos="fade-up" data-aos-duration="1100">
-      <img src="https://via.placeholder.com/200" alt="Abhishek" class="w-24 h-24 mx-auto rounded-full object-cover -mt-16 border-4 border-black">
+      <img src="Images/ak.jpeg" alt="Abhishek" class="w-24 h-24 mx-auto rounded-full object-cover -mt-16 border-4 border-black">
       <h3 class="text-xl font-semibold text-white mt-6">Abhishek</h3>
-      <p class="text-orange-400 mb-4">Project Manager</p>
+      <p class="text-orange-400 mb-4">Frontend Manager</p>
       <div class="flex justify-center space-x-4 text-gray-400">
         <a href="#" class="hover:text-orange-400 transition"><i class="fab fa-linkedin"></i></a>
         <a href="#" class="hover:text-orange-400 transition"><i class="fab fa-twitter"></i></a>
