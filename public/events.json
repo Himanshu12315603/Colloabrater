@@ -21,6 +21,104 @@
         "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQYlKrlfWS6VRZoGPoStS_zlYvL8KWgLp6MTg&s"
     },
     {
+        "name": "Tech Spark Summit",
+        "type": "Conference",
+        "date": "2025-07-22",
+        "description": "A technology summit bringing together developers, entrepreneurs, and IT leaders to discuss the future of AI, cybersecurity, and digital transformation.",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR7tWzEYOZ_LafksnAi3syIn2wHvWD0e07xMg&s"
+    },
+    {
+        "name": "Rhythm Beats",
+        "type": "Music",
+        "date": "2025-08-10",
+        "description": "An electrifying music night featuring upcoming indie bands and solo performers showcasing diverse genres under one roof.",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSQwS7Vf8fbXMtxJABdGZ3J3UX6VhK7s1H4Ag&s"
+    },
+    {
+        "name": "Green Hackathon",
+        "type": "Competition",
+        "date": "2025-05-30",
+        "description": "Join the 36-hour coding marathon aimed at solving pressing environmental issues using tech-based solutions. Open to developers, designers, and eco-enthusiasts.",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSczqytGZt9q1HQhn8Ib0iOjCEXVkm1V_0M8A&s"
+    },
+    {
+        "name": "Digital Marketing 101",
+        "type": "Seminar",
+        "date": "2025-06-15",
+        "description": "This beginner-friendly seminar walks you through the essentials of digital marketing, from SEO and content strategy to paid ads and analytics.",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTl93MIg2HTRAUorG3Nk3nHRqOktQ8jKLD8nw&s"
+    },
+    {
+        "name": "Art for Change",
+        "type": "Exhibition",
+        "date": "2025-09-12",
+        "description": "An open-air art exhibition featuring social commentary through modern installations and traditional paintings.",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRDRwQGbxw9ZpERAzVC5H9xYPOVxQ3q7U5Xvw&s"
+    },
+    {
+        "name": "Fitness Fiesta",
+        "type": "Event",
+        "date": "2025-10-01",
+        "description": "A vibrant health and wellness festival with yoga sessions, fitness challenges, and diet consultations.",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTDm4e_4oS3ZmnGz5N0Y9OolE2MHryK6AK4-Q&s"
+    },
+    {
+        "name": "Startup Pitch Fest",
+        "type": "Startup",
+        "date": "2025-07-18",
+        "description": "Early-stage startups pitch innovative ideas to VCs and angel investors in a high-energy environment.",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQYXX6Ybt__VcNE7_sVcQOqV6RnOKDequzA5Q&s"
+    },
+    {
+        "name": "Code & Coffee Meetup",
+        "type": "Networking",
+        "date": "2025-06-28",
+        "description": "A casual coding meetup to exchange ideas, learn from peers, and sip some great coffee with fellow developers.",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQxuT46_rYmyqTg6jlJZdNSZ0u_PU07_lXFLQ&s"
+    },
+    {
+        "name": "AI & Ethics Symposium",
+        "type": "Conference",
+        "date": "2025-08-25",
+        "description": "A symposium discussing the ethical implications of AI technologies and their impact on society.",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQq2X1g3v4x6j7k8l4m1JrYbZz5c7G2W3n8Xw&s"
+    },
+    {
+        "name": "Meditation Retreat",
+        "type": "Meditation",
+        "date": "2025-09-05",
+        "description": "A tranquil retreat for meditation enthusiasts to connect with nature and find inner peace.",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQq2X1g3v4x6j7k8l4m1JrYbZz5c7G2W3n8Xw&s"
+    },
+    {
+        "name": "Blockchain Bootcamp",
+        "type": "Workshop",
+        "date": "2025-07-10",
+        "description": "An intensive workshop covering the fundamentals of blockchain technology, smart contracts, and decentralized applications.",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQq2X1g3v4x6j7k8l4m1JrYbZz5c7G2W3n8Xw&s"
+    },
+    {
+        "name": "Photography Walk",
+        "type": "Photography",
+        "date": "2025-08-15",
+        "description": "Join us for a guided photography walk through scenic locations, perfect for capturing stunning shots and learning new techniques.",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQq2X1g3v4x6j7k8l4m1JrYbZz5c7G2W3n8Xw&s"
+    },
+    {
+        "name": "Cultural Fest",
+        "type": "Festival",
+        "date": "2025-09-20",
+        "description": "A vibrant cultural festival celebrating diversity through food, music, and art from various cultures.",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQq2X1g3v4x6j7k8l4m1JrYbZz5c7G2W3n8Xw&s"
+    },
+    {
+        "name": "Hack for Good",
+        "type": "Hackathon",
+        "date": "2025-10-10",
+        "description": "A hackathon focused on creating tech solutions for social issues, with mentorship and prizes for the best projects.",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQq2X1g3v4x6j7k8l4m1JrYbZz5c7G2W3n8Xw&s"
+    },
+    {
         "name": "Orchestra Western Dance ",
         "type": "Dance",
         "date": "2025-04-30",
@@ -33,5 +131,19 @@
         "date": "2025-05-21",
         "description": "LPU has hosted significant culinary competitions, such as the National Culinary Challenge Season 6 semi-finals, which celebrated India's diverse flavors. These events provide a platform for students to showcase their skills, gain exposure, and compete at national levels.",
         "image": "https:\/\/t4.ftcdn.net\/jpg\/02\/67\/33\/49\/360_F_267334945_Wh5hvfnej5Th6U0VxiST66srSXoV0p6N.jpg"
+    },
+    {
+        "name": "Himasnhu Kumar",
+        "type": "Workshop",
+        "date": "2025-04-22",
+        "description": "everyone pls come",
+        "image": "data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wCEAAkGBxMTEhUTExMWFhUXGBgYFxcYGBcYGBgXGBcYFxgXGBcYHSggGBslGxUXITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGy0mICUtLS0vLTUtLS0vLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf\/AABEIAKgBLAMBIgACEQEDEQH\/xAAcAAACAwEBAQEAAAAAAAAAAAAFBgMEBwIAAQj\/xABFEAABAwIEBAMEBwUGBAcAAAABAgMRAAQFEiExBkFRYRMicTKBkaEHFCNCUrHBFWLR4fAkM1NykvGCg6LSFkNEk6Oywv\/EABkBAAMBAQEAAAAAAAAAAAAAAAIDBAEABf\/EADARAAICAgEDAgMIAgMBAAAAAAECAAMRIRIEMUETIjJhsRRCUXGBkaHwI9EzweEF\/9oADAMBAAIRAxEAPwDHwmuSKlArkigjJ9thrX1xOtetd6kcTWEzcSFyrrLelRXNupIBKSAdiQQCOxO9XGEHIDBjaYMT0nahY6hKNyu6KiCdKuPsHLMGOsVXTtWA6hESF1NWrKzzJKqheTV\/BbkJJB2NNTBO4DdpPw5o+BEVq+DoJMg6Vmlo6nxkxvWjYYqEkzRVgeqJp1WZNiqCFSTNZ3jaJdNP+JmQk0j4on7Q0NoxYYQOaxATmhrrD\/b94r5dDzVzZHzVd0vxCed1f\/G0I8SD7PtSrNMeIqK0ZZoK7aFNF1dTcsxfSWqVx5nNn7afWtLs2\/Kn0rPMKs1LcGXkRWk2iYSAelee89GuSKZB3pf4tsh4Cj2NMwoVxIiWFehrBDPaZFXq+kV8o4idttk7VfsEZFpPOorPQTRTBGwp5APWuJhKMmMd5ePJazJSfWo8I44dQQHBI2povnEhBaI+7pWX3iMq1DoTS6zH3rvc2VriNjw85WNqqWnFrS1QAcv4uVZPhtqXVZcx\/rtT\/aYaE"
+    },
+    {
+        "name": "College php event ",
+        "type": "Workshop",
+        "date": "2025-04-25",
+        "description": "you will learn php ",
+        "image": "data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys\/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N\/\/AABEIALcAxgMBIgACEQEDEQH\/xAAcAAAABwEBAAAAAAAAAAAAAAAAAQIDBAUGBwj\/xAA+EAACAQMCAwQIBAQFBAMAAAABAgMABBEFEgYhMRNBUWEiMlJxgZGhsQcUQmIjcsHwFSRD0fFTgpLhM0Rj\/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAEDAgQF\/8QAJBEAAgICAgEFAAMAAAAAAAAAAAECEQMhEjFBBBMiMlEUQlL\/2gAMAwEAAhEDEQA\/ANBo8e60FMrZbrmVv3VK0E7rEDzNSIF9Ob+etNWTTooLmwV7hty1Hj0tJLkoF6NWjmhzIx8hQ06D\/Mv76nxNqRdaTpkaW6+j3VRcT6Okq7lrWW7bF21FvIe3bFHEdnJ77SvyKi4X0W3ZLV03g25\/MaXA3lioetaEtzZ7PGrjhDTV0\/Tki9kVmOmNu0X+3nRMKfAwKS\/SqtmRpA3s08BTadadpDBSGLezSjSaACBb2aVmk0M0xBlqLc3s0M0KADBo6TR5oGFlvZoA0dCkARFJYcqXRUANHd7NCnCKFFiOc6BbTW1vsmXoxxVzDZ8pGqZsiT0V99Ohd0JHjWJcrVAkq2ULcmI8BTmmr\/GNKubKQMzDpmlaYjrI27xqpitl7GPTPuptxtfNOKdrE+VRZp1UmkbD1FilnvHXuqNoeuo7m3kbZKp+dLuplltseVY6\/ieK67aLrnNYdmk0dVhfevrUbdKymgcQRTxrHK2JuXLxrSpKH6dKaYhxOtPY\/dTINOKeVMA9v7qGKOhmgBJWk7P3UvNHQAgLR"
     }
 ]
