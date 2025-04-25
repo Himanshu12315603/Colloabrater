@@ -33,13 +33,13 @@
   <header class="bg-black bg-opacity-80 py-4 px-8 md:px-16 lg:px-24 xl:px-32 flex items-center justify-between">
     <div class="text-xl font-bold"><span class="highlight-gravity">GRAVITY</span></div>
     <nav class="hidden md:flex space-x-6">
-      <a href="#" class="hover:text-gray-300">About</a>
-      <a href="#" class="hover:text-gray-300">Resources</a>
-      <a href="#" class="hover:text-gray-300">Community</a>
-      <a href="contact.html" class="hover:text-gray-300">Contact Us</a>
+      <a href="about.php" class="hover:text-gray-300">About</a>
+      <a href="resources.php" class="hover:text-gray-300">Resources</a>
+      <a href="dashboard.php" class="hover:text-gray-300">Community</a>
+      <a href="contact.php" class="hover:text-gray-300">Contact Us</a>
     </nav>
     <div class="space-x-4">
-      <button class="hidden md:inline-block text-gray-300 hover:text-white">Login</button>
+      <button class="hidden md:inline-block text-gray-300 hover:text-white">Home</button>
     </div>
     <div class="md:hidden">
       <button class="text-gray-300 hover:text-white focus:outline-none focus:ring-2 focus:ring-gray-400">Menu</button>
@@ -75,7 +75,7 @@
         <div class="bg-gray-900 rounded-lg p-6 flex items-center" data-aos="fade-right" data-aos-duration="1200">
           <div class="highlight-btn rounded-md py-2 px-4 mr-4 font-semibold">Social Media</div>
           <div class="text-gray-300 text-sm space-x-4">
-            <a href="#" class="hover:text-gray-300">Facebook</a>
+            <a href="facebook.com" class="hover:text-gray-300">Facebook</a>
             <a href="#" class="hover:text-gray-300">Twitter</a>
             <a href="#" class="hover:text-gray-300">Instagram</a>
             <a href="#" class="hover:text-gray-300">LinkedIn</a>
@@ -105,7 +105,7 @@
     <div class="relative bg-gray-900 rounded-xl p-8 shadow-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl" data-aos="fade-up" data-aos-duration="900">
       <img src="Images/hk.jpg" alt="Himanshu" class="w-24 h-24 mx-auto rounded-full object-cover -mt-16 border-4 border-black">
       <h3 class="text-xl font-semibold text-white mt-6">Himanshu</h3>
-      <p class="text-orange-400 mb-4">Jr Developer</p>
+      <p class="text-orange-400 mb-4">WebSite Deginer</p>
       <div class="flex justify-center space-x-4 text-gray-400">
         <a href="#" class="hover:text-orange-400 transition"><i class="fab fa-linkedin"></i></a>
         <a href="#" class="hover:text-orange-400 transition"><i class="fab fa-twitter"></i></a>
@@ -142,28 +142,48 @@
 
 
     <!-- Contact Form -->
-    <section class="py-16 px-8 md:px-16 lg:px-24 xl:px-32 bg-black bg-opacity-70 text-center" data-aos="fade-up" data-aos-duration="1200">
-      <h2 class="text-3xl lg:text-4xl font-bold mb-8"><span class="highlight-gravity">Send</span> Us a Message</h2>
-      <form class="max-w-3xl mx-auto space-y-6">
-        <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
-          <div>
-            <label for="name" class="block text-sm text-gray-300 font-semibold">Your Name</label>
-            <input type="text" id="name" name="name" class="w-full bg-gray-800 text-white px-4 py-3 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-400 focus:ring-offset-2" required />
-          </div>
-          <div>
-            <label for="email" class="block text-sm text-gray-300 font-semibold">Your Email</label>
-            <input type="email" id="email" name="email" class="w-full bg-gray-800 text-white px-4 py-3 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-400 focus:ring-offset-2" required />
-          </div>
-        </div>
-        <div>
-          <label for="message" class="block text-sm text-gray-300 font-semibold">Your Message</label>
-          <textarea id="message" name="message" rows="6" class="w-full bg-gray-800 text-white px-4 py-3 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-400 focus:ring-offset-2" required></textarea>
-        </div>
-        <button type="submit" class="w-full bg-orange-500 text-white py-3 px-6 hover:bg-orange-600 focus:outline-none focus:ring-2 focus:ring-orange-400 focus:ring-offset-2 rounded-full">
-          Send Message
-        </button>
-      </form>
-    </section>
+    <section 
+  class="py-20 px-6 md:px-16 lg:px-24 xl:px-32 bg-black bg-opacity-80 text-center backdrop-blur-sm" 
+  data-aos="fade-up" 
+  data-aos-duration="1200">
+
+  <h2 class="text-4xl lg:text-5xl font-extrabold text-white mb-12">
+    <span class="highlight-gravity text-pink-400">Send</span> Us a Message
+  </h2>
+
+  <div class="w-full max-w-2xl mx-auto px-6 py-10 bg-white bg-opacity-10 backdrop-blur-lg rounded-3xl shadow-2xl border border-white border-opacity-30">
+    <form action="https://formspree.io/f/mgvkveob" method="POST" class="space-y-6">
+      
+      <div>
+        <label for="name" class="block text-white text-sm font-medium mb-2">Your Name</label>
+        <input type="text" id="name" name="name" required
+               class="w-full px-4 py-3 rounded-xl border border-white border-opacity-20 bg-white bg-opacity-10 text-white placeholder-white focus:outline-none focus:ring-2 focus:ring-pink-400">
+      </div>
+
+      <div>
+        <label for="email" class="block text-white text-sm font-medium mb-2">Your Email</label>
+        <input type="email" id="email" name="email" required
+               class="w-full px-4 py-3 rounded-xl border border-white border-opacity-20 bg-white bg-opacity-10 text-white placeholder-white focus:outline-none focus:ring-2 focus:ring-purple-400">
+      </div>
+
+      <div>
+        <label for="message" class="block text-white text-sm font-medium mb-2">Message</label>
+        <textarea id="message" name="message" rows="4" required
+                  class="w-full px-4 py-3 rounded-xl border border-white border-opacity-20 bg-white bg-opacity-10 text-white placeholder-white focus:outline-none focus:ring-2 focus:ring-indigo-400"></textarea>
+      </div>
+
+      <button type="submit"
+              class="w-full py-3 px-6 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 
+                     text-white font-semibold text-lg rounded-xl shadow-lg 
+                     hover:from-pink-500 hover:via-purple-500 hover:to-indigo-500 
+                     transition-all duration-500 transform hover:scale-105">
+        ✉️ Send Message
+      </button>
+    </form>
+  </div>
+
+</section>
+
   </main>
 
   <!-- Footer -->
