@@ -15,48 +15,98 @@
   </style>
 </head>
 <body class="bg-gray-100 p-4">
-  <div class="text-right mb-4">
+  <div class="text-right mb-4 flex justify-end space-x-4">
+    <a href="dashboard.php" class="text-sm text-blue-600 hover:underline">Home</a>
     <a href="logout.php" class="text-sm text-blue-600 hover:underline">Logout</a>
   </div>
   <div class="max-w-4xl mx-auto">
     <h1 class="text-3xl font-bold text-center mb-6" style="color: white;">Community Event Dashboard</h1>
 
     <!-- Event Form -->
-    <div class="bg-white p-6 rounded shadow mb-6">
-      <form id="eventForm" class="space-y-4" enctype="multipart/form-data">
-        <div>
-          <label class="block font-semibold">Event Name</label>
-          <input type="text" name="name" class="w-full p-2 border rounded" required />
-        </div>
-        <div>
-          <label class="block font-semibold">Event Type</label>
-          <select name="type" class="w-full p-2 border rounded" required>
-            <option value="All">All</option>
-            <option value="Hackathon">Hackathon</option>
-            <option value="Codathon">Codathon</option>
-            <option value="Dance">Dance</option>
-            <option value="Workshop">Workshop</option>
-            <option value="Music">Music</option>
-            <option value="Freelancing">Freelancing</option>
-            <option value="Cooking">Cooking</option>
-            <option value="Other">Other</option>
-          </select>
-        </div>
-        <div>
-          <label class="block font-semibold">Date</label>
-          <input type="date" name="date" class="w-full p-2 border rounded" required />
-        </div>
-        <div>
-          <label class="block font-semibold">Description</label>
-          <textarea name="description" class="w-full p-2 border rounded" required></textarea>
-        </div>
-        <div>
-          <label class="block font-semibold">Image URL</label>
-          <input type="url" name="image" class="w-full p-2 border rounded" placeholder="https://example.com/image.jpg" />
-        </div>
-        <button type="submit" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Add Event</button>
-      </form>
+    <div class="max-w-3xl mx-auto mt-10 bg-white/20 backdrop-blur-lg border border-white/30 rounded-3xl shadow-xl p-10 space-y-6 text-gray-800">
+  <form id="eventForm" class="space-y-6" enctype="multipart/form-data">
+    
+    <h2 class="text-3xl font-bold text-center text-white tracking-tight">✨ Create an Event</h2>
+    <p class="text-center text-gray-200 mb-4">Fill in the details below to add your event to the community.</p>
+
+    <!-- Event Name -->
+    <div>
+      <label class="block font-semibold text-white mb-2">Event Name</label>
+      <input 
+        type="text" 
+        name="name" 
+        class="w-full px-4 py-3 bg-white/80 rounded-xl border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:outline-none text-gray-800 placeholder-gray-500 transition"
+        placeholder="Enter event name"
+        required
+      />
     </div>
+
+    <!-- Event Type -->
+    <div>
+      <label class="block font-semibold text-white mb-2">Event Type</label>
+      <select 
+        name="type" 
+        class="w-full px-4 py-3 bg-white/80 rounded-xl border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:outline-none text-gray-800"
+        required
+      >
+        <option value="All">All</option>
+        <option value="Hackathon">Hackathon</option>
+        <option value="Codathon">Codathon</option>
+        <option value="Dance">Dance</option>
+        <option value="Workshop">Workshop</option>
+        <option value="Music">Music</option>
+        <option value="Freelancing">Freelancing</option>
+        <option value="Cooking">Cooking</option>
+        <option value="Other">Other</option>
+      </select>
+    </div>
+
+    <!-- Date -->
+    <div>
+      <label class="block font-semibold text-white mb-2">Date</label>
+      <input 
+        type="date" 
+        name="date" 
+        class="w-full px-4 py-3 bg-white/80 rounded-xl border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:outline-none text-gray-800"
+        required
+      />
+    </div>
+
+    <!-- Description -->
+    <div>
+      <label class="block font-semibold text-white mb-2">Description</label>
+      <textarea 
+        name="description" 
+        rows="4" 
+        class="w-full px-4 py-3 bg-white/80 rounded-xl border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:outline-none text-gray-800 resize-none"
+        placeholder="Write a short description of your event..."
+        required
+      ></textarea>
+    </div>
+
+    <!-- Image -->
+    <div>
+      <label class="block font-semibold text-white mb-2">Image URL</label>
+      <input 
+        type="url" 
+        name="image" 
+        class="w-full px-4 py-3 bg-white/80 rounded-xl border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:outline-none text-gray-800 placeholder-gray-500"
+        placeholder="https://example.com/image.jpg"
+      />
+    </div>
+
+    <!-- Submit -->
+    <div class="text-center">
+      <button 
+        type="submit" 
+        class="px-8 py-3 bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 text-white font-semibold rounded-full shadow-lg hover:scale-105 transition-transform duration-300"
+      >
+        ➕ Add Event
+      </button>
+    </div>
+  </form>
+</div>
+
 
     <!-- Filter -->
     <div class="mb-4">
@@ -78,7 +128,7 @@
     <!-- <div id="eventList" class=" flex flex-row space-y-4"></div> -->
 
 
-<!--// I can change this part of the code -->
+      <!--// I can change this part of the code -->
 
       <!-- Events Container -->
       <div id="eventList" class="flex flex-col-reverse gap-4 max-w-xl mx-auto p-4">
