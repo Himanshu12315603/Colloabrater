@@ -6,7 +6,6 @@
   <title>Gravity Landing Page</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
 
-  <!-- Custom Background Style -->
   <style>
     body {
       background-image: url('https://cdn.prod.website-files.com/647dc8f9284342c55bc86dad/659702c8b37cb3dce69dd8b9_Groootin%20Gradient%20BG%20(1)%201.png');
@@ -16,7 +15,7 @@
       background-attachment: fixed;
     }
 
-    /* Highlight Gravity term */
+    
     .highlight-gravity {
       color: #FF7F32; /* Orange color */
     }
@@ -33,14 +32,15 @@
     <div class="text-xl font-bold"><span class="highlight-gravity">GRAVITY</span></div>
 
     <nav class="hidden md:flex space-x-6">
-      <a href="#" class="hover:text-gray-300">About</a>
-      <a href="#" class="hover:text-gray-300">Resources</a>
-      <a href="#" class="hover:text-gray-300">Community</a>
-      <a href="#" class="hover:text-gray-300">Contact Us</a>
+      <a href="about.php" class="hover:text-gray-300">About</a>
+      <a href="resources.php" class="hover:text-gray-300">Resources</a>
+      <a href="events.php" class="hover:text-gray-300">Community</a>
+      <a href="contact.php" class="hover:text-gray-300">Contact Us</a>
     </nav>
 
     <div class="space-x-4">
-      <button class="hidden md:inline-block text-gray-300 hover:text-white">Login</button>
+      <a href="dashboard.php"><button class="hidden md:inline-block text-gray-300 hover:text-white">Home</button></a>
+      
     </div>
 
     <div class="md:hidden">
@@ -145,11 +145,10 @@
     <div>
       <h6 class="font-semibold text-white mb-4">Pages</h6>
       <ul class="space-y-2">
-        <li><a href="#" class="hover:text-gray-300">About</a></li>
-        <li><a href="#" class="hover:text-gray-300">Resources</a></li>
-        <li><a href="#" class="hover:text-gray-300">Blog</a></li>
-        <li><a href="#" class="hover:text-gray-300">Community</a></li>
-        <li><a href="#" class="hover:text-gray-300">Contact Us</a></li>
+        <li><a href="about.php" class="hover:text-gray-300">About</a></li>
+        <li><a href="resources.php" class="hover:text-gray-300">Resources</a></li>
+        <li><a href="events.php" class="hover:text-gray-300">Community</a></li>
+        <li><a href="contact.php" class="hover:text-gray-300">Contact Us</a></li>
       </ul>
     </div>
     <div>
@@ -162,7 +161,7 @@
     <div>
       <h6 class="font-semibold text-white mb-4">Follow Us</h6>
       <ul class="space-y-2">
-        <li><a href="#" class="hover:text-gray-300">Facebook</a></li>
+        <li><a href="https://instagram.com" class="hover:text-gray-300">Facebook</a></li>
         <li><a href="#" class="hover:text-gray-300">Twitter</a></li>
         <li><a href="#" class="hover:text-gray-300">Instagram</a></li>
         <li><a href="#" class="hover:text-gray-300">LinkedIn</a></li>
