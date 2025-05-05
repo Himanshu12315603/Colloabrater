@@ -39,7 +39,8 @@
       <a href="contact.php" class="hover:text-gray-300">Contact Us</a>
     </nav>
     <div class="space-x-4">
-      <button class="hidden md:inline-block text-gray-300 hover:text-white">Home</button>
+      <a href="dashboard.php"> <button class="hidden md:inline-block text-gray-300  hover:text-white" >Home</button></a>
+     
     </div>
     <div class="md:hidden">
       <button class="text-gray-300 hover:text-white focus:outline-none focus:ring-2 focus:ring-gray-400">Menu</button>
@@ -105,7 +106,7 @@
     <div class="relative bg-gray-900 rounded-xl p-8 shadow-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl" data-aos="fade-up" data-aos-duration="900">
       <img src="Images/hk.jpg" alt="Himanshu" class="w-24 h-24 mx-auto rounded-full object-cover -mt-16 border-4 border-black">
       <h3 class="text-xl font-semibold text-white mt-6">Himanshu</h3>
-      <p class="text-orange-400 mb-4">WebSite Deginer</p>
+      <p class="text-orange-400 mb-4">Designer</p>
       <div class="flex justify-center space-x-4 text-gray-400">
         <a href="#" class="hover:text-orange-400 transition"><i class="fab fa-linkedin"></i></a>
         <a href="#" class="hover:text-orange-400 transition"><i class="fab fa-twitter"></i></a>
