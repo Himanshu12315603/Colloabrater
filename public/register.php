@@ -67,6 +67,24 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <i class="ph ph-user absolute left-3 top-1/2 transform -translate-y-1/2 text-white text-opacity-70"></i>
                 </div>
             </div>
+            <div>
+                <label class="block text-white text-sm mb-1">Email</label>
+                <div class="relative">
+                    <input type="email" name="email"  required
+                        class="w-full pl-10 pr-4 py-2 rounded-lg bg-white bg-opacity-10 text-white placeholder-white placeholder-opacity-70 border border-white border-opacity-30 focus:outline-none focus:ring-2 focus:ring-pink-300 transition"
+                        placeholder="xyz@gmail.com">
+                    <i class="ph ph-user absolute left-3 top-1/2 transform -translate-y-1/2 text-white text-opacity-70"></i>
+                </div>
+            </div>
+            <div>
+                <label class="block text-white text-sm mb-1">Mobile No</label>
+                <div class="relative">
+                    <input type="text" name="mobile" required
+                        class="w-full pl-10 pr-4 py-2 rounded-lg bg-white bg-opacity-10 text-white placeholder-white placeholder-opacity-70 border border-white border-opacity-30 focus:outline-none focus:ring-2 focus:ring-pink-300 transition"
+                        placeholder="950####573">
+                    <i class="ph ph-user absolute left-3 top-1/2 transform -translate-y-1/2 text-white text-opacity-70"></i>
+                </div>
+            </div>
 
             <div>
                 <label class="block text-white text-sm mb-1">Password</label>
