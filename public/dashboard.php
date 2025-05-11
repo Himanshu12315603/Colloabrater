@@ -29,6 +29,21 @@ if (!isset($_SESSION["username"])) {
       -ms-overflow-style: none;
       scrollbar-width: none;
     }
+    .glass-card {
+      background: rgba(255, 255, 255, 0.15);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border-radius: 16px;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+      padding: 1rem;
+      transition: all 0.3s ease;
+    }
+
+    .glass-card:hover {
+      background: rgba(255, 255, 255, 0.25);
+      box-shadow: 0 12px 40px 0 rgba(31, 38, 135, 0.4);
+    }
     
     @keyframes float {
       0% { transform: translateY(0px); }
@@ -89,18 +104,18 @@ if (!isset($_SESSION["username"])) {
       </div>
       
       <nav class="p-4 space-y-2">
-        <a href="dashboard.php" class="flex items-center space-x-3 p-2 rounded-lg bg-[#2a1f1f] text-white">
+        <a href="dashboard.php" class="flex items-center space-x-3 p-2 rounded-lg  bg-[#2a1f1f] text-white">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
             <path d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z" />
           </svg>
           <span class="sidebar-text">Dashboard</span>
         </a>
         
-        <a href="events.php" class="flex items-center space-x-3 p-2 rounded-lg hover:bg-[#2a1f1f] text-gray-300 hover:text-white">
+        <a href="artists.php" class="flex items-center space-x-3 p-2 rounded-lg hover:bg-[#2a1f1f] text-gray-300 hover:text-white">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
             <path d="M13 6a3 3 0 11-6 0 3 3 0 016 0zM18 8a2 2 0 11-4 0 2 2 0 014 0zM14 15a4 4 0 00-8 0v1h8v-1zM6 8a2 2 0 11-4 0 2 2 0 014 0zM16 18v-1a5.972 5.972 0 00-.75-2.906A3.005 3.005 0 0119 15v1h-3zM4.75 12.094A5.973 5.973 0 004 15v1H1v-1a3 3 0 013.75-2.906z" />
           </svg>
-          <span class="sidebar-text">Explore Community</span>
+          <span class="sidebar-text">Artists</span>
         </a>
         
         <a href="resources.php" class="flex items-center space-x-3 p-2 rounded-lg hover:bg-[#2a1f1f] text-gray-300 hover:text-white">
@@ -110,14 +125,14 @@ if (!isset($_SESSION["username"])) {
           <span class="sidebar-text">Resources</span>
         </a>
         
-        <a href="#" class="flex items-center space-x-3 p-2 rounded-lg hover:bg-[#2a1f1f] text-gray-300 hover:text-white">
+        <a href="dashboard1.php" class="flex items-center space-x-3 p-2 rounded-lg hover:bg-[#2a1f1f] text-gray-300 hover:text-white">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
             <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-2 0c0 .993-.241 1.929-.668 2.754l-1.524-1.525a3.997 3.997 0 00.078-2.183l1.562-1.562C15.802 8.249 16 9.1 16 10zm-5.165 3.913l1.58 1.58A5.98 5.98 0 0110 16a5.976 5.976 0 01-2.516-.552l1.562-1.562a4.006 4.006 0 001.789.027zm-4.677-2.796a4.002 4.002 0 01-.041-2.08l-.08.08-1.53-1.533A5.98 5.98 0 004 10c0 .954.223 1.856.619 2.657l1.54-1.54zm1.088-6.45A5.974 5.974 0 0110 4c.954 0 1.856.223 2.657.619l-1.54 1.54a4.002 4.002 0 00-2.346.033L7.246 4.668zM12 10a2 2 0 11-4 0 2 2 0 014 0z" clip-rule="evenodd" />
           </svg>
-          <span class="sidebar-text">Analytics</span>
+          <span class="sidebar-text">Dashboard</span>
         </a>
         
-        <a href="#" class="flex items-center space-x-3 p-2 rounded-lg hover:bg-[#2a1f1f] text-gray-300 hover:text-white">
+        <a href="profile.php" class="flex items-center space-x-3 p-2 rounded-lg hover:bg-[#2a1f1f] text-gray-300 hover:text-white">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
             <path fill-rule="evenodd" d="M11.49 3.17c-.38-1.56-2.6-1.56-2.98 0a1.532 1.532 0 01-2.286.948c-1.372-.836-2.942.734-2.106 2.106.54.886.061 2.042-.947 2.287-1.561.379-1.561 2.6 0 2.978a1.532 1.532 0 01.947 2.287c-.836 1.372.734 2.942 2.106 2.106a1.532 1.532 0 012.287.947c.379 1.561 2.6 1.561 2.978 0a1.533 1.533 0 012.287-.947c1.372.836 2.942-.734 2.106-2.106a1.533 1.533 0 01.947-2.287c1.561-.379 1.561-2.6 0-2.978a1.532 1.532 0 01-.947-2.287c.836-1.372-.734-2.942-2.106-2.106a1.532 1.532 0 01-2.287-.947zM10 13a3 3 0 100-6 3 3 0 000 6z" clip-rule="evenodd" />
           </svg>
@@ -161,34 +176,52 @@ if (!isset($_SESSION["username"])) {
             </button>
             
             <!-- User Profile -->
+             <a href="profile.php" class="cursor-pointer">
             <div class="flex items-center space-x-2">
-              <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="User" class="h-8 w-8 rounded-full border-2 border-orange-500">
+              <img src="https://cdn-icons-png.flaticon.com/512/219/219986.png" alt="User" class="h-8 w-8 rounded-full border-2 border-orange-500">
               <span class="hidden md:inline"><?php echo isset($_SESSION["username"]) ? htmlspecialchars($_SESSION["username"]) : 'Guest'; ?></span>
               <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 hidden md:inline" viewBox="0 0 20 20" fill="currentColor">
                 <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
               </svg>
             </div>
+            </a>
           </div>
         </div>
       </header>
 
       <!-- Welcome Banner -->
       <div class="pt-24 pb-8 px-6">
-        <div class="max-w-6xl mx-auto bg-gradient-to-r from-[#9f3737] via-[#b94747] to-[#e05a5a] rounded-xl p-8 shadow-lg">
-          <div class="flex flex-col md:flex-row items-center">
-            <div class="flex-1 text-center md:text-left">
-              <h2 class="text-3xl md:text-4xl font-bold mb-4">Welcome back,<?php echo $_SESSION["username"]; ?>!</h2>
-              <p class="text-lg mb-6 max-w-2xl">You're part of India's biggest creative network. Connect with artists, showcase your work, and grow together!</p>
-              <div class="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
-                <a href="events.php" class="bg-white text-[#9f3737] px-6 py-3 rounded-xl font-semibold hover:bg-gray-100 transition">Explore Community</a>
-                <a href="index2.php" class="border border-white px-6 py-3 rounded-xl font-semibold hover:bg-white/10 transition">Upload Your Work</a>
-              </div>
-            </div>
-            <div class="mt-8 md:mt-0">
-              <img src="https://cdn.prod.website-files.com/647dc8f9284342c55bc86dad/65d07229ff8b1322e204cbbe_image%20join%20back.webp" alt="Welcome" class="h-48 md:h-64">
-            </div>
-          </div>
-        </div>
+      <div class="max-w-6xl mx-auto bg-[#1e1e1e] rounded-3xl p-10 shadow-lg border border-[#2e2e2e] transition duration-300 hover:shadow-[0_20px_60px_rgba(255,255,255,0.05)]">
+  <div class="flex flex-col md:flex-row items-center gap-10">
+    <!-- Left Content -->
+    <div class="flex-1 text-center md:text-left">
+      <h2 class="text-4xl md:text-5xl font-extrabold mb-4 text-white drop-shadow">
+        Welcome back, <?php echo $_SESSION["username"]; ?>!
+      </h2>
+      <p class="text-lg text-gray-300 mb-6 max-w-2xl mx-auto md:mx-0 leading-relaxed">
+        You're part of <span class="font-semibold text-[#f87171]">India's biggest creative network</span>. 
+        Connect with artists, showcase your work, and grow together!
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
+        <a href="events.php" class="bg-[#f87171] text-white px-6 py-3 rounded-xl font-semibold hover:bg-[#dc2626] transition-all duration-300">
+          Explore Community
+        </a>
+        <a href="index2.php" class="border-2 border-[#f87171] text-[#f87171] px-6 py-3 rounded-xl font-semibold hover:bg-[#f87171]/10 transition-all duration-300">
+          Upload Your Work
+        </a>
+      </div>
+    </div>
+
+    <!-- Right Image -->
+    <div class="flex justify-center md:justify-end w-full md:w-auto">
+      <img src="https://cdn.prod.website-files.com/647dc8f9284342c55bc86dad/65d07229ff8b1322e204cbbe_image%20join%20back.webp" 
+           alt="Welcome" 
+           class="h-56 md:h-72 rounded-2xl shadow-md transition-transform duration-500 hover:scale-105">
+    </div>
+  </div>
+</div>
+
+
       </div>
 
       <!-- Original Content (now inside dashboard) -->
@@ -197,7 +230,7 @@ if (!isset($_SESSION["username"])) {
         <div class="nav_plus-hero-section w-full py-4 bg-[url('https://cdn.prod.website-files.com/647dc8f9284342c55bc86dad/659702c8b37cb3dce69dd8b9_Groootin%20Gradient%20BG%20(1)%201.png')] bg-cover bg-center">
           <div class="w-full py-4">
             <!-- Mobile-friendly Header -->
-            <header class="max-w-3xl mx-auto flex flex-row md:flex-row justify-between items-center px-4 md:px-4 py-4 bg-gradient-to-r from-[#9f3737] via-[#b94747] to-[#e05a5a] text-white rounded-2xl shadow-md">
+            <header class="max-w-3xl mx-auto flex flex-row md:flex-row justify-between items-center px-4 md:px-4 py-4 glass-card  text-white rounded-2xl shadow-md">
               <!-- Logo Section -->
               <div class="flex items-center space-x-4 mt-4 mb-4 md:mb-0">
                 <img src="Images/logo2.svg" alt="Logo" class="h-16 w-24 md:h-20 md:w-28" />
@@ -230,7 +263,7 @@ if (!isset($_SESSION["username"])) {
           </div>
 
           <!-- Hero Section -->
-          <section class="relative max-w-5xl mx-auto my-6 md:my-10 p-6 md:p-8 rounded-2xl bg-gradient-to-r from-[#9f3737] via-[#b94747] to-[#e05a5a] text-white"
+          <section class="relative max-w-5xl mx-auto my-6 md:my-10 p-6 md:p-8 rounded-2xl glass-card  text-white"
             style="box-shadow: 0 10px 25px rgba(101, 67, 33, 0.4);">
 
             <!-- Content -->
@@ -255,7 +288,7 @@ if (!isset($_SESSION["username"])) {
                 hover:shadow-lg hover:bg-[#ff5a1f] transition-all duration-200">
                  Explore Community
               </a>
-              <a href="/about"
+              <a href="about.php"
                 class="w-full sm:w-auto button flex justify-center items-center gap-2 text-white font-medium px-6 py-2 border border-white/30 rounded-2xl
                 hover:bg-white/10 transition-all">
                 Know More
