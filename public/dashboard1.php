@@ -44,10 +44,10 @@ if (!isset($_SESSION["username"])) {
                 </div>
                 <div class="hidden md:flex items-center space-x-8">
                     <a href="dashboard.php" class="nav-link text-gray-700 hover:text-blue-600 transition">Home</a>
-                    <a href="gallery.php" class="nav-link text-gray-700 hover:text-blue-600 transition">Gallery</a>
+                    <!-- <a href="gallery.php" class="nav-link text-gray-700 hover:text-blue-600 transition">Gallery</a> -->
                     <a href="dashboard.php" class="nav-link text-blue-600 font-medium transition">Dashboard</a>
                     <a href="events.php" class="nav-link text-gray-700 hover:text-blue-600 transition">Upcoming Events</a>
-                    <a href="suggestions.php" class="nav-link text-gray-700 hover:text-blue-600 transition">Suggestions</a>
+                    <!-- <a href="suggestions.php" class="nav-link text-gray-700 hover:text-blue-600 transition">Suggestions</a> -->
                     <a href="profile.php" class="nav-link text-gray-700 hover:text-blue-600 transition">Profile</a>
                     <a href="logout.php" class="nav-link text-gray-700 hover:text-red-600 transition">Logout</a>
                 </div>
