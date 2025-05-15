@@ -1,124 +1,5 @@
 [
     {
-        "name": "Hackfest LPU",
-        "type": "Codathon",
-        "date": "2025-05-09",
-        "description": "Hackfest LPU is one of the premier hackathons organized by Lovely Professional University (LPU), bringing together some of the brightest minds from across the country to collaborate, innovate, and build creative tech solutions. Held annually, this dynamic event fosters a culture of problem-solving, coding, and real-world application of knowledge among students and developers.",
-        "image": "data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wCEAAkGBxMTEhUTExMWFhUXGBgYFxcYGBcYGBgXGBcYFxgXGBcYHSggGBslGxUXITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGy0mICUtLS0vLTUtLS0vLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf\/AABEIAKgBLAMBIgACEQEDEQH\/xAAcAAACAwEBAQEAAAAAAAAAAAAFBgMEBwIAAQj\/xABFEAABAwIEBAMEBwUGBAcAAAABAgMRAAQFEiExBkFRYRMicTKBkaEHFCNCUrHBFWLR4fAkM1NykvGCg6LSFkNEk6Oywv\/EABkBAAMBAQEAAAAAAAAAAAAAAAIDBAEABf\/EADARAAICAgEDAgMIAgMBAAAAAAECAAMRIRIEMUETIjJhsRRCUXGBkaHwI9EzweEF\/9oADAMBAAIRAxEAPwDHwmuSKlArkigjJ9thrX1xOtetd6kcTWEzcSFyrrLelRXNupIBKSAdiQQCOxO9XGEHIDBjaYMT0nahY6hKNyu6KiCdKuPsHLMGOsVXTtWA6hESF1NWrKzzJKqheTV\/BbkJJB2NNTBO4DdpPw5o+BEVq+DoJMg6Vmlo6nxkxvWjYYqEkzRVgeqJp1WZNiqCFSTNZ3jaJdNP+JmQk0j4on7Q0NoxYYQOaxATmhrrD\/b94r5dDzVzZHzVd0vxCed1f\/G0I8SD7PtSrNMeIqK0ZZoK7aFNF1dTcsxfSWqVx5nNn7afWtLs2\/Kn0rPMKs1LcGXkRWk2iYSAelee89GuSKZB3pf4tsh4Cj2NMwoVxIiWFehrBDPaZFXq+kV8o4idttk7VfsEZFpPOorPQTRTBGwp5APWuJhKMmMd5ePJazJSfWo8I44dQQHBI2povnEhBaI+7pWX3iMq1DoTS6zH3rvc2VriNjw85WNqqWnFrS1QAcv4uVZPhtqXVZcx\/rtT\/aYaEs5e1FZdxxAqo5xwGKs\/jFfDirP4x8awbEXVJdUAtUT1NVvrK\/xq+JpvOIK4M\/QH7YY\/GKp3F1nPkWkpO451hXjq\/Er4mjfCGJKRcJBWQlWhk0u73IRG0NwfJmv2uFNagaFW9FcOwwNjwum3ekB\/iMMvHUqjanPhnFlvpU44Mp+6O1Qg2V7EusKWDBneI4k2wYcOXpOxqgeKbb\/EHxoB9MDrimEEtEJCh5unrWUtM5hNehXaWXJnnOmDgTVMb+ilTFup9L4VlSVFKhGgE71nltbBUyYrRccVja7KH0fYRKiAkOFO\/mg7e6azbMQTHyqSosQcmNOJoX0McNWl2\/cC5AcLYRkbJICsxUFK0ImMqdP3qm+ku2sbe6aDLbZShaCtCIjKkytCo32jXXes5s31NKzAlJ6gkH4ipXn8+tEynMwd5rP0tcZWNzYIZt1BxalIUk5SPCCdTuNCR5YHU0Pc4mtlYcGkoOYthGTL5UmIzTt361mDm1GbJweHFBZXkDMNNdp9dvAG8saxHahiW9Jq46zImqaV6RWqNQzOXEkjQE+6vWyfNrRzCbttKCFCqztmColB3qhQBgxLZIMoYe7\/AGlOvOtfwMzodorNsFwlIOdXtTWh4MpUwNudMU4tEwA+kZZxoxAA0pLxFPnpvxm5lUdKU7\/26C8g2nENARUMxdvvaqC1jNqYohc2ilLkCRXjhqSf96fW2tSdx+MgUpsH2qjvloIGU1dVhbad6+XWHpCJFb6wbWZno8d4nHCwh007JVSXw6AHdKcEqqezvH19pZBqniwlpQ7VRv8AiBtpWUnWpW8RbeQoJM6UM3Myl4QpQ7mo6tYiiHVjuarUcTLzHs1bwp0h1BG81StSCIqywnKpJHIiuImqdzTRYvr8+XTLWdYygpdWD1r9C4G2ldqhUjVI\/KsO4tslG8cQgZpPKpaLSxII7R9hLTnghxPiwoTNNHEbLiWyps+6l3hi2LTpLiYink3KFp7GvRVFdPd4iQzKdeZkgw9SyVLOpri5w7KNDNaXf4G24j7OARSVfteGVpPKpQ2TgRjVFRkxZNWcNRmdQOqv51XVvRXheyU7ctpRvM\/D\/emYzqIzjZjH9SzvBPJMTTrhV1505fZTp60GXhC23TJ33orZJh1KamuUg4MrrZWXIhzikJetXELEjKaxwW7aPLWwYifsXP8AKaxx10E0dGli7u81DiLj1Vxa+C02ULUnKtRIIAjXLGp99ImH8PrUNIPevv11CdzFEcJxzIsIAPm60w1LXnjAryx3I8X4X8NnNOtKATANaXirLjyPJMGle8wQoT5qUisRKblCnQi+tPlqyLVaUBUaGrreFhYgGma3tEJbDa6cyMq8iIivDniDEfxlRE1w23NM2L4GkAKRoKFs2aEglaoHbekr7hkRjrwOGg0J8wB2ompsoGdPs15C2FH2NPUzRAZC2UJPKiVgNGLYZGoIs8bUXAnkTWj4XeFIkCZFZSm3Uh5MpI81alg9ylABVtFGfjGDj5za9oQRmXsQGYBUamoU8C3dwCUqQ0DsVyT\/AKRXH7XKlheUZQdBME94osnixQkozBIEk7j0HWpOo6gCz2yiuolMGJeM8J3thK1\/aN\/4iJIH+YHVP5VXtnVONqciCnetV4d4uau0qbUPNzSRoodQD+VLXEmEt2qHfDgJXqEd\/wAIoEuPKb6WtxQtrVxxJUBpNGcewwIsxHtxTHZ26WrdJyxoCaT+LcUKnAlPsgVq5Z8iOZVSvcCcOYarxRKoBIBrWU8LM+HM6x1NZVbKcXohJJHMVqn0cNOvMqNwFCDCZ5iKoBZzuefYmBqY5iuFLVcupAnKoj3UQ4dwUpzEkhXStM4x4fTbpU+2nTdQ\/WlPDrkKBKtK0Fi2PEMLWEznczHHGyl5YPWqFMHFLANwI5zVcYW3+JQpwEmMFsHWi1k8EuJKhKZ1onw3wmm5dKEulMJKtRVXGcM8FQ1kTHwosanA7mmpvwpoeEsgRsDSy024i48RKQqd5qPA75EBCT5oiKtvZmleeQTUb+z4Z6IIYQldAKM5dTvVO9d8JIEaGoGsXEwTRBFy0tBz6iupzYChHeZc4T\/IT2lfDcSQCATAoXxhidusFtsAq6\/zorY4El8GPIjrG\/pXR4AaB3Kh1BII91YQlJwTuKW5r1yo0fMyd1sg0\/fRBboL61qIzAQB+dV+I+CVoQVsq8RI3SdFD+NUfo8t1m5KkkjKIP8ACqqrkPuGxJbam+HtH2\/fzXKxyH511hQl8noK7ubSDm58zU2EtQVK60i1+ZLSitOChZZvXPs3B+6ayB0CT61q2IK0WB+Gsteb8x9aKsag2d44W2GMaFQBIPOu8ewCUG4aUBkG3Klu\/wAVLi1FsQgbDrU2KY+VtpZRoPvd+1A9L8g2ZQOoTgRiGcNv3xbh1ahl6DeoUtruEkgmJoJaXqkACSU8xWq27TCbPxkAezPyqhrAEOBuIVmL+8kj8Io2\/D2ROZTsR6UpXuJKW9lzeVPPrUvE\/EqriEhOUD50vJdisrdyvvmXemG\/xiGr7Glq8oOgqC7vZEHXahhdqRatj1FcFHiAzknJkiHCe1WrNbhcShKtzEmittw+CyCSfFWTl1gAATqOZNXeFOHM5LiwqUK0SNJilM64MctD5HzlLGrN62W2HlhQX7MbCP8Aei1\/e5GAPxQKv8QYS7eeFlRlCJUN80DQzQTHACEtzqOvKKBNgEw3wrMBB6bhRJKZolh+JqylPcaVDguCKzpUsw2dYnVQG8dB3pksre2SskMg67qUo5fQUu1khVhu8arXCmm0ofT5VJTJjnO9DsZuA+62AZCCZnryola4h5SgRGw71Vwq5YceWp1GVSREdxzqdBy7SssMR4t7Rpy2SHAIy0ks8Nsh5xUgoOgHSvr2M51ZQSEjQCobm68pI3FMssZdCUU9Brkx2f4hC1wVltMNwnXenzCUBLaQOQpC4faS+0VJclQ5dDTfgd5ma13TofdTqrADued1SHGB4lrGbdLjakK2IpcxawZbtSckiI2900wvrChqaCcTNhdsWQcoUAFK7DXSfSn+pX5MjFTk4AmQYrhDYGeZVOlDiynpR6\/smx5ELKlA7k0HeZI0NATjXLMZYh7kYh\/ghgDx17QjLPrNB+JMMytaGY1\/Wmvgq3\/s6jzWuNeYED9KY7jAGHwApMGYITz+FMNqqAp7xa15BMwzhlKlXLeUgEGZrWMQsEvol1XmGxGlHcK+iq1QrxIUDyEnSl\/GltpulsIXoyIUCQMyzB35wkj3zNJtLYyI\/pyg0e8B3\/Bi1wbdSZiSFGPnUtjw09kglAWNxMj419cxlLaiUSreNdB2HWreHY0IlRjtsTy1PWkrdah5KIx6qbQVcZH5wurDHWLVvTzalcchypZucaWhU6inq1xAOtEJMkb\/AOWkDie3TmXB0nQHmKP22HJ7mYK2RPb2El\/bRWN9zr76v8O4e2kuOiBmOoHWkL69Gg0Ioxb3KkJSSqM2sUxKuPaLazPeP7iM6dKhBCRA5ULssXDafPOv5UMxfHWwk+GuSeXShVNzS2BuE33wltxattazV17U+tFb7FFKaylVLi3dapC4kzNmM3jMotk+GmVr35x3\/KrPAnC6Lp0+MvKkbCYKqJYxxBbpYUhhtIJ02GlALN5SAFIJChqCKWWZlPgx7FVYDuBHHjbgpm2ZLrKiMu4JmaUmeInfq\/hA+SIrjiji165SlsyAPa70HYfSlMH3UNCtjFky5lJ9kgfMma9fW8NhQ3PKplmBMV1boUvv2qgsvHAiuBGzPYPg3ie3InYUzKwmzbgLQtZTzDmUT6AbVZw628JYWciggSBrBPLcCY\/Shl47JqminKlmiLHwQFjFa49bpBSLfQ9VqO3MdDUzGPWsgDxG\/dmT+hpP51bRZZtQaF+mrPiGnU2j70f7WLpGRt0FRJyltRBT3UN9uUUSx3h23bZLzyEkoTJJ0zKiIA7mkLhZxLF4wtRgJV5jyAgjXtrTP9K2PhQbbbUFJAzkpOZMmQBI0kR86QyirAWM5mw5aZ9c4irxCrbSOyQBoBVdnGHORIH596GXbmaDr6e6jeH2+W38XJKlSUjUBKEmFE9yTSXVQO0ZXyYwzh+L6CTuR6k\/oKKFQXKwfMBBjmOX51nbb86g5e3OmjhLEybhoEDVaQRyIJ59anNXE8hKKrsMMzp+6UhYnnTNh7qVCCd6JfSlh6PqwdUnK4FABSRGh01ikPDLrKASuRt\/vXOvqJkT06OtUNhtZjM\/eG0JLZgqPuNFOEuKVZlpW2o5jMgE1S4XuGnXPBcR4gUDrOqe9M17aP2jSAwkOIT7RIlwp\/ImombicNo\/jNvtp7AZlDGBfuqzW5yp\/DAn51UHFJUj6vdQhQ0UrY\/Cm7CMRBa8QHxBzgQpHUKTQTiHA7W8hxXYZkbxOs1WqBhgzyHu3lYlcQOMhxIYSYjUjnNfMSsS02kuESrZPOmV1OGWrha8O4WtBG57AiDI61ze8R2XtqsSqNMzhHw509OnxiCerONyHDGslowBM6qgbmf96auHbQtpUpaiCo5hPLtS+jjEhKS3ZtJTy15dtKZbnH2EkAtyVJCknSCDW3oQeUTU2dCX7m\/XENrnQyQNqzfiLhtpAzhalrcX5ioxJ1JMCnqxxsbBogelAsVKXnFIKDEzrsJ193P4Uip86Ms9LEy9dvJys5sx2QJV6iN\/hVdsLB8wUlQOqFSCDzEGnO3w8NOOR94EJPPWr6rFNwlLbkFWUSoDn6npVHKZ6Htz5gvgS+V4ikQdUHXuCKZ7jhgPIiCTv8e9XuDuF0WxzE5jy7aREc96bTcDbap3YZyISOyrxmRO\/RsrNm1IGscz2pZvEkPAKT7B9k6RHav0EVg0vcU8JM3gKhCHwISsc+yxzFEl3gxLpk5EQ8TvGHLbNGVQED+vdWfOIlRNXsUtn7d9Vu\/KVDlyI5KSeYNDlLINUVAKNRV7lzmS+HpJPuoW4DOkVZvlSN65tEN5RmXBoidzlAYASs4opVB3q4zipAgjWj7mDtvpCgqI37UvYjhZaJ1kcjQ5zqCBjvK7tyTyAqNy4MRAr7bMqWYSJ+A+Zp1tMDw5KWw454i1Zc\/mKUpJBnaAAKxjxhr7onDOpI7USsXC2Mw3p2wvAcMdPhoXBOiSlcrKvfOlL95gTzSloKFKSknKqB5k8jA7UIsE1lga7xZzNm2zakDQHlMV9RiwVuCOpiR\/KrWM4aStAGyUIHvPmUfio\/Cq3hBAUkdP96sW1lQGTmsFiJM0+D7JnsP4b1bauI309ZFClNJkVeTdrbjKs5ecjOP9Kv0ij9f8RB9H8ISt0AkmeR29KjaxaBHLnU2GcZJQB4zAP7yNP+lWnzobxJdWrpSu1QpJPttqASnsUwrQ9hp+qLSH3CXK6k7N9blwHJGvQR6xTMAlTeUAFKp2771mykCeaFdFHQ+hG1PHAhcellKSpSdcvOOep5T+dTuMDIlVDjlgyRfDLIQSAZIgdu9SfR5w6td40tKSWUKzKVykapHrtTzc8FvlkkLSXDIKBMBPVJIkq37UR4bYbtG\/DSPMfancnuKnZyBvzKCqN8HiXOO8LN3aOMIIC1QUyYEggie2lYZjvC1xaD7VxAk6BKjr3rRuP\/rFy42zbB3PE50KKEoMjVaukTpQm2+j5OdKr29U6obAAlIPcqJJrlu4DZizQW0BK\/Al0tlbeVkqLhCQsid+fpWiOY8h1a0IUSWjkVpCZG8dahuF29ohKlrGg8iUgSeWgqTD2rcrbLbiD4hKtFDMQQSZG+9Z1Fy9QuOAHb6wKafSbJYkb7z5ZobW4XW4bcjKoj2Y0J02mB86rDF30uPAtJCZSG4iMpMFRPXnVu+smGgEFwNBxyYzAKUSdtdTJ6UL4tWG2XUp9pcJTrukSpR+VDRQ4ZUz\/f8AyEzKQTiUOMbOFMvke0MijyJTsfeJ+FDHkApgc9ffRXBr8\/VmmrhkKbJzJKzl8p1BHOZn3GuLu0QVgtgR0k6V6SEqeB7jz4kttOuYxj8M7\/aCrRWZCkcxqKa+HHUrYAUnMps5e+U6j+FQXHCKmUl7xEHbQTz0517hl0s3OX7rgy+\/cf13orV5oYqtuDiGluCNExSvjGNoauPCKVZ15YI9mNtTy3preuYWU5ZVOgGo+NLPEHAb91ceMXm228oGWCpW+vYV5dZAbc9N2IXIlR8ZZO9c2d6SodqLY3gyAltpleWAEknzEgc996prwtphKQJzE6rJ1PPbaKP1BKOJbcYbXF4KQNd5P9etHra6SR5iNeoP50o4OoBGZYlRKsqRzA5noB1OlS3WJxBJ39kJ5+nMj94+6mhZ4993v0Y3XFvKZbIB+Iqq00oJ77z3oBhmOFKwg8wSOxGpHvE\/CjD92TlUFaExtsaF68bjenvLe0xK+l7CPFYRcBP2jJhUc21c\/cYPxrHwrMD1Fbtxpff2N4qGyDPeRtX5\/fdEylOXtTa+0O5cbki0yD1qh4RGlEkbVRWSSaZEDPiMBsrhClKaMpOsVWxG6W42UrRCgKs4LfPrAbQACeZ6UyOcNKUg+IsZo0IFCWC94SqWGpnttcZGz1UfkP6NRpcB6qPIbD+dS39v9opM6J3NfGp9lCdT8h1Jp47RR7wphzykbaHqNIPQRrRi3cedC9XFFtGdKpUVIIIgZtwk9DpNC21EgB1eeAABAAAAgaxJ+NW1LBbLYKkoUZIScoJ7xoffSXjVzKtxxA4ojxgFfvAAK95A1NV3rgAZgrOnrzHqKHXyChRGpHfcetR2q4OvsmQdNDpt+VGO0HJzLAuJPaiFs6djQJTcAEGR86uWz3kMxpyPOuIhK0vXTyVIUIJ18p5SCNvdPxoUlkGprq9CiMoISOU8+ZrzaEnUn4miEBjkyZi0nQrMdJn5U38A3C7e6Sc\/lUhSQojbZQB7eWle2KRtFGsPePMaUtpqzcLDHUaAvAnoBr8qLpvEK1gGecVgYxv6stJUrQ6jvFNuFcWqNuq5WoJYSoNhSgolbh1yoSkEmKWyjGRGjvNQWtkJ1hI0E7CToBWZ\/SHxLZtgJtnM7knOUnMlAHKfxTyFdvvv3L4ZkJUBOUzAOXNCgRqqDEEdqixfhhu9bacYUhhxJyvJyjw1gHzkoH3huCImY6EJ4J3YCOBdfhJma4vxUp46lalDSSYED90UR4JxV1Nw34aA66CSlB56EHbbetRXgzTtiiwCh5UtjxA2kq+zIMwTziCSeZqhbYaxhbDjgyKfVGYpAGpIASkckDeOZnrXJ1NTqRX9CPqIhwUYeocQpYcLSv6wuToVBS1Fa0qkeUk7ECqHFtipxtHhqSoJV5irylMpImJ106VPhGOqbtwkhSysZlSdCVEqkRrtFKnGN2txSVCAgAJyhU8zrB199W9PalpCfeG\/lIR1DLdlDqdXeJhTaWXnQsIVIMzHljKAncacyKpHF0o\/um9fxKk\/ATp8aXnJq5ZXeXRSQfzq0oIbWFjkxmw\/iS5WoZ1eToAK0hvEkZQQ2kGBsBM1kLd2SdEwK0XBMXCrdKFNpVk0PP0JB02qDrazwyo\/6jK71r28NW+OoPTePfVTFuIkpB7bjaapXrLDyQnIpvUKzNhtJ07gbUHxLhpLsxdOpHIFtKo7SFCa8ytSfi1KR\/8AQ6XuDv8AWFMJxBp4KdSqYOqeae0Un8Z42c6Gmz51GI6A1btOC\/CWFt3pB6FogK9SFnT3UL4f4ZedxIhwT4Ss7h5QPZA9TEU6usBpR9tS1fYdxkceKTkHmUBqCYSAPvOnkkckVwy7MrnMPvOH75\/Cgck0axHDUI0KdN8p0TPUjdZ9aW8Vu4BWtQypBIA206RVq4btPCfIO5D+0ZuEp5gk\/ER+pppZu1fV1wopIAMjfQ6\/I1mOD3JW6XDuo\/AdKfsFJWlSJ9pKkg9yCB86YygidW5VsiDsWxtS2ywtIUhYglWpUKS8c4XCAFoUAk8tSAek1JcXuUFDiiQdidClXqPunbtUlvio8NbS\/MIkAGY9TRGodhHi1yfccxTXpI6VXQnSrF0fOrvrVcLqciUrDGBulLiY5HU06u3UvtpUTkI1jkTtSfgrX2pSRodR7qLY4opebj7yY99LsOTGpoQLxlhymrpSQNFaj30P0QAgHU6qPU9PT+FOHFbzbjLLhV9ujykcyI3Pb9aQnnNfXSnVElNxVgAaXQ\/rpvXYuF8o15cp9eVVEGplHKZ5GiYQQZw89mgEQRp\/I\/pXNs6EmFap+O9fb9rUHr\/uDUTpkZv67\/nXTs7lq4R5EqA+6AYHMaT8qoqUaJ2lwESnedhy001+FevsO8odQPLHmA5HYkDp+VYGxozSM7EDqB7V9aXG+1W7OzU64lptOZazCR3\/AEA3J7UwXvAL7ailb1vCQCspWpWSdgUhElR5Ab01UZuwiXsRPiOIuwRqDpUjTzhOij7jU+JYY9aKGcShXsq5K0BIjkRNRC9TGxB7fpQuCpwRCRgwyphW0cKiPFOdI08wBmd+VNljjFmllu3eYUoNL8RBDikoz5iQoISQBHv+dZ59fEeVJ9SZrg3h2J1qZ6uUoV+M1AXxdcVcIORRUVaHUE66EUY4YcPiltU5VgkkEaEA6+\/b3ilbBTDaT11P6Uawu5CH0qOxBQe2bY\/EAe+pnAOpSS60lh3xGx1\/KMqPKmQNNyeqj+tKHGi\/7psbqWVbTsMon3r+VMF3fwPImTInWI115HWJ0\/LekfEccHjqUVHQJSI1Mgk6CYJkp+AoacFsLPCqRns5PDWIPBsdANBJA0A5A0Iu8NuHvOlAIIEecAx11Aozw2Wn0KSUtJdHslxIXvqI6EHnBmgfFKMW18udoCPsBKSI1OUan4VTQfSfWM\/OVr0yqM7Mp\/sO6\/wAf+Y3VK8+tNf+kPqFBwf\/AB0LwuxczZn1KQ2PMUTDi+2XdPqqO01oDPEzLjYZcaSGoypTGYI6EaSTzmqm6iwfP9IYrUxDbxu5nRATHVCoHrNGML47vEqDU2w1+8gpG+p8qh0o7c+GwPEtHEPkwC0XvBWB2J9sdjt3rjEeJltFKXmQgqGiXPDXtvC06HfY660s3M3ib6YHmOeDXzbrQUXUOL+8W9p7J3AHeTVhLiCBCwrkTpv+8B7J9wrMxxQyhWfwrcqHRuD7ijnV08cJXHlQY1ynOArseh+INI9BycwXqpYbEf1EUXsnUNNFaU+dZlR5kgZRPoAKxw8XJzhbSfCJHmQn2dDoMu1M1nxmXmFhtlSnGxOUHQgn5elYUKncDpen9KwtnWIdxLGC5I+7zms8xu9DqlNJOVEiTvmj3jSfXavY5xHKEhEhxU50nTKO3egjZ51SDgalFmHO4YsEoSoAKM+kD8zTpgD0KEEGI2M96zy1uMqgojsO3rTJZ4jk843ESNBI5g+6u5mIahTte8E8QW6k3jzbnhlAdKgNASknMEkAQRBAqjcLSq5JbaQ0FIAyIBy8+vuo7x7bf2lt4bONpPqpJyn5ZaXU3ARcZlHyhAUfia6pyXAPiUWIvo8x3OIHuUwoE9I+FfEtimHA27e7f8NSy3mJPnypTtJ80wP51Qxli0bdUhq4U8kffQiEzzCSo+Yd9jQufEFFMZuHkIKkBcRB171LxBh8uN5dYUAD2NA8Nkq0VMchTCu4SQM6gnbnrpyqVgeWpQpGNxO4ga8NxSec\/Ll+ZpfeNE8YuS44pR5k0LXV4GFAkjHJzLLVWUDSDqn5jvVS32q\/bHkfmf5VzThOVNHKUnWNUq5GNYqqn2Vf1y\/lRZq3769eXoetWcDuGAy4y62pSlLcEpSCqCltKAk77pc98daEGERAriFJCVlJyqKkhRkAkBJIB5xOsdatYdiBBhOsnbqascRN3C0AuIDY8VRbZgBSUrkknYgAJQnWJATppQO3WW1TsRWHBmrkbmy4eq2Yt0oa8NtZIU4QgEqMclch\/Cqq2LcqzOXJ1JUU5RqTzOsyNI9KSrNT9wgeC0tZGhIEJ\/1GB86LWvCzgAcuFgAHVKSdeylH9J9aBervrXiHx+gmt0XTWNyKZJ+ZjDi+C2960ltLiwEqCvEyiBAKSJJ1mflS9b4Om1dGS1cdCQr7UEOkk7EFGiYAPIHXrrRdeLAJhJ0GgTByx2EQB8apOYwokZFOEgbNpSCBv7R2HupTW2ucuc\/x9I+vp6qxxQYllDlo4SpVq0t2TKVIUVzzBC+fahr3EKG15RbspbOim\/DSkEaSCAO9fGFM3C8yrlxtyJKloBJ10BUCASOStPyrt58MuoLvgXKRpmUAHQk7kpJOf50vzjZjcDGdCWb+5tSUgZmkL9hTUBI\/dU2RoR2MHeijPDzicqvHKhorVImNxqIjT86A4+LVakqYVCVQrKAfKpAkgADTMnlyIp2wK+QWGsxJOQHY+4dZ5R2qewOFBTMejpk88QNj96cxCFeY6HQ\/M0n2LIJzHU9tYJncntzrU8edQGVKAklKsum6tk794+IpZ\/8AByVp8juQEaiJkQNZCh05zXdJ1Hok+oMRV3Trbuvv5itdNvo0S2sTBnNA9ZGlVbi7fIh27UB+HxFqEdISSKYH\/o56XBA6ZRH51WX9HSuT4I6lMfkarPXUN3I\/YxA6O4dh\/IiwbhA0RmX6CJqzbtOL0JQynmVrAPw3+Ao2Po7XOj\/wSf412n6N3T\/543geU6n0mu+3UeGmHorvK\/T\/AHLOC2dohJKHG1u\/4jig2Ed0BwHMe8VU4nwcLaAS8XFgqIJJXBgEjOUiU\/LXerqvoruYlSj\/AKVflyqxhvAriYH1lQT+FBKAfemsPVVD731nDprD2H8iZpbskkpJhQ0INTeEpMyTpymtlXwwkpSH0NOwB51klYAH3dPTnWS42gt3jrIMIS4QBuAneBPLWjq6lbCQviBZ07IAW8wCmZHUmjmBNuLbdKXvDIKc3mKcwgkDTUiAsn0FR4wQlAAABJMkATG8fOr\/AAh4Tb7SHVlHjLQhagJyIKgQme6gkHtTc5GYvGDI7ZhySXNT3Mn486iubs5so5b0T4hT9XvX2m1K8CSQlUmElOYETsUkwCPTnS0hUyep+QooMJ26yR75ou04FpyBQzwYEiTptQAuZU9ztVVhyBPPeuxOzNAxNZdw63d0JbX4auoBEa+9KfjSPjS\/tN\/up\/jTThF8FWV3nOgQ25\/xBwD4mPnSOtZUok7k0sD3Exqt7OPznw7V0k19LRIJGw0riRTIMcbq5BjK5kJ25A9unuNCF3qhIWdRof0PpXiAZbc25HmDyIoZfAjRXtDynuN0n4VnEAzOU6eHOqjia82sivEmmk5i59t3o05zpRJDCok\/KhB6jej9tchSRXDfeaJPh2GvOq8qwlPMq2imHDeFAF5k3gCgZBQnUHsrNQBCyOcipf2rl5xSHVj2MevEd4yo4JZBKnLpZJ3MJE+8yaspwrDmIUUeKobZzmHw9n5Ulv8AEJ5Ek9TQx\/Elq50r0WJ20b6ygYAj9i3GyEiEAADl\/LaqFs+4+nOH2UE7occyqTqYkFMd9+dMP0YcFAgXdwnMT\/dA7QRquDudwD6mtMbsUDZI+VT23V1MUA3CrLOAx7TEf2O6T\/fW0dQ6NfSu7ljKAnIFHWSy62J\/zFczz2rcgwB2\/wCEn8kmrbFuj8SSekx8t6BLHcg4\/kQ2dVGP9zBbF8NkqFo4onTzPoIH\/DMVdVizkQLGNZnO38NTt2rcHLYnZPvEx+dRm0V0ondwfgz\/AH8oAZSMa\/v6zD04k+BpYn\/UiPT38zTDwOt26uw09b+G2ApazmE7Qn2Tpv8AAGtLLVLeOcNPPvsuBxAS04V5ZWkq9nKnMAcuxBPSsquBbDjExxrU+\/SDgjKWEEFSSXUcyqUplZGUf5RtSxZ5eQXHL7NwiPcmmVPCjpfU+t0kqVOQurdSE6khGdIKNz1Aimdq3Gw0HwFD1PEsOO4VFjVqYjoVP+If+U7\/ANlSADm25\/7Lv\/ZT+3YntX1WH9xSvsjMPhP7xn23HmIOVP4HR\/ynv+2vouC1C0BYI5rbWkAHoVJAp7\/Z56iobzCi4goJ0UIO36isHSspzwMIdaDpjqJtvxA5IlVWXHkK1KXBOpCG3CNddFJTFdtfR+yhQPiPaGYLgI94jUUx+HAify\/StYeGEJrq+9cUlvtAH7N+OvhOj\/8AIrHeJ\/q6755xOZUrB3OhygGR2IIr9Flgdaw36QGfAv3wIAUQ4PRaQo\/9Wan9KEBPEYMm6iwsBkxNxQ+dCQmAnUcySo6qM68vlXF7bpTK5JSfZHMHoo8jUKXipRWTrrHpy9K8XyBHKNfzM9a9EDEjJhDia9LrmaQVOJQokayI0HxkkenShsbCu1pEz0gD3DWoM259wooMkcck9qgQrQ1yFa1wFaGtmS+VEtR\/WhB\/U1WbEAq9w\/WpbcymPd8Qa5dUMqfShMMdoU4dcts6vraFLSU+UJUUwqdDoRI\/jV7BOFFPt+ITllRj0HP86WA5rWr8KGbVr0I+BIpVpIGRGAaiVijQVtvQx77RqfvoHvIG4r7XqcYmC0muq9Xq2ZOSakYuMvpX2vVs2S\/WydAY9TXwNqPMT\/mFer1A2oQ3OhZuHZCldwCR8aZ+D+EnLy5ShSFIaAzu8oSNMo7qOg955V8r1ItsKqSI5EB7z9AttZQEpAAAAAGwA0AAqRM16vV4B7y3xJUq71E7epT1PpXq9VtFQYZMU05tr5Cp+6QJM6QBzkVaAB5zz11\/OvV6styhwCZ3EYzPoAG0e6KHr4itElQVcJSpHtgj2dY10618r1UdLUrqWbxDrrDnH5fXEt4biTdxJZWFgfeG3uJ3qziK\/BbLhM8gOpPevteqj7OgJMC5OF\/pjtnEV08XQYA17afKmrAsXD6CrYgwfhNer1LoJDHco6yisV5A3Ljt0gbrA94\/Wq7dyn\/HKu0JP\/1TXq9RWdQQcYkSUArnMq3Ns0NSVKUfWfjXPhaa\/nNfa9UlwGDqGCdbnOWsd+ne0KXLd4ffQttXqkhSfko\/CvV6u6PVomW\/BMtYFS+GJA\/1e7lX2vV65MjnL6uXT89zUDh5V9r1cJhkJrg16vVs6W7VWh9AfgRXy5THxP8AGvV6sMNPM5CdO+57Dl\/XetO4Ec\/siQTspQ+c\/rXq9Sbe0JTqf\/\/Z"
-    },
-    {
-        "name": "Roadmap TO DevOps",
-        "type": "Workshop",
-        "date": "2025-06-05",
-        "description": "In today\u2019s fast-paced software development world, DevOps has become a vital framework for improving collaboration, automation, and the overall delivery pipeline. This hands-on workshop provides a detailed roadmap for individuals and organizations looking to adopt DevOps practices and tools to enhance their development and operations processes.",
-        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSiF0HJkmQ2YMs7Pq8FkglWgoTP793FX7DWOg&s"
-    },
-    {
-        "name": "Himanshu12315603",
-        "type": "Dance",
-        "date": "2025-04-18",
-        "description": "dffdf",
-        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQYlKrlfWS6VRZoGPoStS_zlYvL8KWgLp6MTg&s"
-    },
-    {
-        "name": "Tech Spark Summit",
-        "type": "Conference",
-        "date": "2025-07-22",
-        "description": "A technology summit bringing together developers, entrepreneurs, and IT leaders to discuss the future of AI, cybersecurity, and digital transformation.",
-        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR7tWzEYOZ_LafksnAi3syIn2wHvWD0e07xMg&s"
-    },
-    {
-        "name": "Rhythm Beats",
-        "type": "Music",
-        "date": "2025-08-10",
-        "description": "An electrifying music night featuring upcoming indie bands and solo performers showcasing diverse genres under one roof.",
-        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSQwS7Vf8fbXMtxJABdGZ3J3UX6VhK7s1H4Ag&s"
-    },
-    {
-        "name": "Green Hackathon",
-        "type": "Competition",
-        "date": "2025-05-30",
-        "description": "Join the 36-hour coding marathon aimed at solving pressing environmental issues using tech-based solutions. Open to developers, designers, and eco-enthusiasts.",
-        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSczqytGZt9q1HQhn8Ib0iOjCEXVkm1V_0M8A&s"
-    },
-    {
-        "name": "Digital Marketing 101",
-        "type": "Seminar",
-        "date": "2025-06-15",
-        "description": "This beginner-friendly seminar walks you through the essentials of digital marketing, from SEO and content strategy to paid ads and analytics.",
-        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTl93MIg2HTRAUorG3Nk3nHRqOktQ8jKLD8nw&s"
-    },
-    {
-        "name": "Art for Change",
-        "type": "Exhibition",
-        "date": "2025-09-12",
-        "description": "An open-air art exhibition featuring social commentary through modern installations and traditional paintings.",
-        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRDRwQGbxw9ZpERAzVC5H9xYPOVxQ3q7U5Xvw&s"
-    },
-    {
-        "name": "Fitness Fiesta",
-        "type": "Event",
-        "date": "2025-10-01",
-        "description": "A vibrant health and wellness festival with yoga sessions, fitness challenges, and diet consultations.",
-        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTDm4e_4oS3ZmnGz5N0Y9OolE2MHryK6AK4-Q&s"
-    },
-    {
-        "name": "Startup Pitch Fest",
-        "type": "Startup",
-        "date": "2025-07-18",
-        "description": "Early-stage startups pitch innovative ideas to VCs and angel investors in a high-energy environment.",
-        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQYXX6Ybt__VcNE7_sVcQOqV6RnOKDequzA5Q&s"
-    },
-    {
-        "name": "Code & Coffee Meetup",
-        "type": "Networking",
-        "date": "2025-06-28",
-        "description": "A casual coding meetup to exchange ideas, learn from peers, and sip some great coffee with fellow developers.",
-        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQxuT46_rYmyqTg6jlJZdNSZ0u_PU07_lXFLQ&s"
-    },
-    {
-        "name": "AI & Ethics Symposium",
-        "type": "Conference",
-        "date": "2025-08-25",
-        "description": "A symposium discussing the ethical implications of AI technologies and their impact on society.",
-        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQq2X1g3v4x6j7k8l4m1JrYbZz5c7G2W3n8Xw&s"
-    },
-    {
-        "name": "Meditation Retreat",
-        "type": "Meditation",
-        "date": "2025-09-05",
-        "description": "A tranquil retreat for meditation enthusiasts to connect with nature and find inner peace.",
-        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQq2X1g3v4x6j7k8l4m1JrYbZz5c7G2W3n8Xw&s"
-    },
-    {
-        "name": "Blockchain Bootcamp",
-        "type": "Workshop",
-        "date": "2025-07-10",
-        "description": "An intensive workshop covering the fundamentals of blockchain technology, smart contracts, and decentralized applications.",
-        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQq2X1g3v4x6j7k8l4m1JrYbZz5c7G2W3n8Xw&s"
-    },
-    {
-        "name": "Photography Walk",
-        "type": "Photography",
-        "date": "2025-08-15",
-        "description": "Join us for a guided photography walk through scenic locations, perfect for capturing stunning shots and learning new techniques.",
-        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQq2X1g3v4x6j7k8l4m1JrYbZz5c7G2W3n8Xw&s"
-    },
-    {
-        "name": "Cultural Fest",
-        "type": "Festival",
-        "date": "2025-09-20",
-        "description": "A vibrant cultural festival celebrating diversity through food, music, and art from various cultures.",
-        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQq2X1g3v4x6j7k8l4m1JrYbZz5c7G2W3n8Xw&s"
-    },
-    {
-        "name": "Hack for Good",
-        "type": "Hackathon",
-        "date": "2025-10-10",
-        "description": "A hackathon focused on creating tech solutions for social issues, with mentorship and prizes for the best projects.",
-        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQq2X1g3v4x6j7k8l4m1JrYbZz5c7G2W3n8Xw&s"
-    },
-    {
         "name": "Orchestra Western Dance ",
         "type": "Dance",
         "date": "2025-04-30",
@@ -133,17 +14,24 @@
         "image": "https:\/\/t4.ftcdn.net\/jpg\/02\/67\/33\/49\/360_F_267334945_Wh5hvfnej5Th6U0VxiST66srSXoV0p6N.jpg"
     },
     {
-        "name": "Himasnhu Kumar",
-        "type": "Workshop",
-        "date": "2025-04-22",
-        "description": "everyone pls come",
-        "image": "data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wCEAAkGBxMTEhUTExMWFhUXGBgYFxcYGBcYGBgXGBcYFxgXGBcYHSggGBslGxUXITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGy0mICUtLS0vLTUtLS0vLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf\/AABEIAKgBLAMBIgACEQEDEQH\/xAAcAAACAwEBAQEAAAAAAAAAAAAFBgMEBwIAAQj\/xABFEAABAwIEBAMEBwUGBAcAAAABAgMRAAQFEiExBkFRYRMicTKBkaEHFCNCUrHBFWLR4fAkM1NykvGCg6LSFkNEk6Oywv\/EABkBAAMBAQEAAAAAAAAAAAAAAAIDBAEABf\/EADARAAICAgEDAgMIAgMBAAAAAAECAAMRIRIEMUETIjJhsRRCUXGBkaHwI9EzweEF\/9oADAMBAAIRAxEAPwDHwmuSKlArkigjJ9thrX1xOtetd6kcTWEzcSFyrrLelRXNupIBKSAdiQQCOxO9XGEHIDBjaYMT0nahY6hKNyu6KiCdKuPsHLMGOsVXTtWA6hESF1NWrKzzJKqheTV\/BbkJJB2NNTBO4DdpPw5o+BEVq+DoJMg6Vmlo6nxkxvWjYYqEkzRVgeqJp1WZNiqCFSTNZ3jaJdNP+JmQk0j4on7Q0NoxYYQOaxATmhrrD\/b94r5dDzVzZHzVd0vxCed1f\/G0I8SD7PtSrNMeIqK0ZZoK7aFNF1dTcsxfSWqVx5nNn7afWtLs2\/Kn0rPMKs1LcGXkRWk2iYSAelee89GuSKZB3pf4tsh4Cj2NMwoVxIiWFehrBDPaZFXq+kV8o4idttk7VfsEZFpPOorPQTRTBGwp5APWuJhKMmMd5ePJazJSfWo8I44dQQHBI2povnEhBaI+7pWX3iMq1DoTS6zH3rvc2VriNjw85WNqqWnFrS1QAcv4uVZPhtqXVZcx\/rtT\/aYaE"
+        "name": "part dance ",
+        "type": "Dance",
+        "date": "2025-05-10",
+        "description": "A dance in somewhere elase",
+        "image": "https:\/\/www.clistudios.com\/wp-content\/uploads\/2021\/08\/jaquel-knight-hip-hop-scaled.jpeg"
     },
     {
-        "name": "College php event ",
-        "type": "Workshop",
-        "date": "2025-04-25",
-        "description": "you will learn php ",
-        "image": "data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys\/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N\/\/AABEIALcAxgMBIgACEQEDEQH\/xAAcAAAABwEBAAAAAAAAAAAAAAAAAQIDBAUGBwj\/xAA+EAACAQMCAwQIBAQFBAMAAAABAgMABBEFEgYhMRNBUWEiMlJxgZGhsQcUQmIjcsHwFSRD0fFTgpLhM0Rj\/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAEDAgQF\/8QAJBEAAgICAgEFAAMAAAAAAAAAAAECEQMhEjFBBBMiMlEUQlL\/2gAMAwEAAhEDEQA\/ANBo8e60FMrZbrmVv3VK0E7rEDzNSIF9Ob+etNWTTooLmwV7hty1Hj0tJLkoF6NWjmhzIx8hQ06D\/Mv76nxNqRdaTpkaW6+j3VRcT6Okq7lrWW7bF21FvIe3bFHEdnJ77SvyKi4X0W3ZLV03g25\/MaXA3lioetaEtzZ7PGrjhDTV0\/Tki9kVmOmNu0X+3nRMKfAwKS\/SqtmRpA3s08BTadadpDBSGLezSjSaACBb2aVmk0M0xBlqLc3s0M0KADBo6TR5oGFlvZoA0dCkARFJYcqXRUANHd7NCnCKFFiOc6BbTW1vsmXoxxVzDZ8pGqZsiT0V99Ohd0JHjWJcrVAkq2ULcmI8BTmmr\/GNKubKQMzDpmlaYjrI27xqpitl7GPTPuptxtfNOKdrE+VRZp1UmkbD1FilnvHXuqNoeuo7m3kbZKp+dLuplltseVY6\/ieK67aLrnNYdmk0dVhfevrUbdKymgcQRTxrHK2JuXLxrSpKH6dKaYhxOtPY\/dTINOKeVMA9v7qGKOhmgBJWk7P3UvNHQAgLR"
+        "name": "Music ",
+        "type": "Music",
+        "date": "2025-04-26",
+        "description": "It's a new event based on the new artist.",
+        "image": "https:\/\/variety.com\/wp-content\/uploads\/2022\/07\/Music-Streaming-Wars.jpg?w=1000&h=563&crop=1"
+    },
+    {
+        "name": "Codathon",
+        "type": "Codathon",
+        "date": "1111-11-01",
+        "description": "nahh",
+        "image": "https:\/\/5.imimg.com\/data5\/BW\/MX\/GLADMIN-29146666\/orchestra-western-dance-groups-for-wedding-event.jpg"
     }
 ]
