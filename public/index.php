@@ -8,6 +8,7 @@
   <link href="https://fonts.googleapis.com" rel="preconnect">
   <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet" />
   <script src="https://cdn.tailwindcss.com"></script>
   <!-- <link href="/src/output.css" rel="stylesheet"> -->
   <style>
@@ -45,11 +46,12 @@
   </style>
 </head>
 
-<body class="bg-gradient-to-br from-[#121212] to-[#2a1f1f] relative overflow-x-hidden text-white min-h-screen">
+<body class="bg-gradient-to-br from-[#121212] to-[#2a1f1f] relative overflow-x-hidden text-white min-h-screen" >
   <div class="page-wrapper">
     <!-- Navigation + Hero Section -->
     <div class="nav_plus-hero-section w-full py-4 bg-[url('https://cdn.prod.website-files.com/647dc8f9284342c55bc86dad/659702c8b37cb3dce69dd8b9_Groootin%20Gradient%20BG%20(1)%201.png')] bg-cover bg-center">
-      <div class="w-full py-4">
+      <div class="w-full py-4"data-aos="fade-up" data-aos-duration="800">
+
         <!-- Mobile-friendly Header -->
         <header class="max-w-3xl mx-auto flex flex-row md:flex-row justify-between items-center px-4 md:px-4 py-4 bg-gradient-to-r from-[#9f3737] via-[#b94747] to-[#e05a5a] text-white rounded-2xl shadow-md">
           <!-- Logo Section -->
@@ -66,11 +68,11 @@
           </button>
 
           <!-- Navigation Links -->
-          <nav id="nav-menu" class="hidden md:flex flex-col md:flex-row items-center space-y-4 md:space-y-0 md:space-x-6 text-lg font-medium w-full md:w-auto">
-            <a href="/about" class="hover:text-gray-200 transition">About</a>
-            <a href="/Resources" class="hover:text-gray-200 transition">Resources</a>
-            <a href="/public/index.php" aria-current="page" class="text-white underline underline-offset-4 font-semibold">Community</a>
-            <a href="/blogs/" class="hover:text-gray-200 transition">Contact</a>
+          <nav id="nav-menu" class="hidden md:flex flex-col md:flex-row items-center space-y-4 md:space-y-0 md:space-x-6 text-lg font-medium w-full md:w-auto" data-aos="fade-up" data-aos-duration="800">
+            <a href="about.php" class="hover:text-gray-200 transition">About</a>
+            <a href="resources.php" class="hover:text-gray-200 transition">Resources</a>
+            <a href="index.php" aria-current="page" class="text-white underline underline-offset-4 font-semibold">Community</a>
+            <a href="contact.php" class="hover:text-gray-200 transition">Contact us</a>
             
             <!-- Login Button - Show in mobile nav but separate on desktop -->
             <div class="md:hidden mt-4">
@@ -96,7 +98,7 @@
         style="box-shadow: 0 10px 25px rgba(101, 67, 33, 0.4);">
 
         <!-- Content -->
-        <div class="flex flex-col items-center">
+        <div class="flex flex-col items-center" data-aos="fade-up" data-aos-duration="800">
           <div class="text-[#faff11] items-center font-medium text-xl md:text-3xl">Community</div>
           <h1 class="text-center mt-4 mb-4 font-bebas text-4xl md:text-5xl lg:text-[3rem] font-bold leading-tight md:leading-[68.6px]">
             Unite, Create and Inspire:
@@ -112,12 +114,12 @@
         
         <!-- Buttons -->
         <div class="flex flex-col sm:flex-row justify-center items-center w-full mt-6 gap-4">
-          <a href="" class="w-full sm:w-auto main-button-new justify-center self-auto pb-[10px] text-base
+          <a href="login.php" class="w-full sm:w-auto main-button-new justify-center self-auto pb-[10px] text-base
             flex items-center bg-[#ff682c] text-white text-center border-4 border-[#0000] px-6 py-2 font-medium rounded-2xl
             hover:shadow-lg hover:bg-[#ff5a1f] transition-all duration-200">
             Join Community
           </a>
-          <a href="/about"
+          <a href="about.php"
             class="w-full sm:w-auto button flex justify-center items-center gap-2 text-white font-medium px-6 py-2 border border-white/30 rounded-2xl
             hover:bg-white/10 transition-all">
             Know More
@@ -128,7 +130,7 @@
     </div>
 
     <!-- Join Section -->
-    <div class="section_join py-12 md:py-16 relative">
+    <div class="section_join py-12 md:py-16 relative" data-aos="fade-up" data-aos-duration="800">
       <div class="px-4 md:px-6">
         <div class="max-w-[1238px] mx-auto">
           <div class="py-8 md:py-12">
@@ -144,7 +146,7 @@
                   Learn, Share, and Inspire - Where Artists Unite to Create Magic Together!
                 </p>
                 <div>
-                  <a href="" target="_blank"
+                  <a href="login.php" target="_blank"
                      class="inline-block bg-orange-500 hover:bg-orange-600 text-white font-semibold px-6 py-3 rounded-md shadow-md transition">
                     Join Community
                   </a>
@@ -152,7 +154,7 @@
               </div>
 
               <!-- Right Image Section -->
-              <div class="flex-1 relative w-full h-[300px] md:h-[400px] z-10">
+              <div class="flex-1 relative w-full h-[300px] md:h-[400px] z-10" data-aos="fade-up" data-aos-duration="800">
                 <!-- Background Image -->
                 <img src="https://cdn.prod.website-files.com/647dc8f9284342c55bc86dad/65d07229ff8b1322e204cbbe_image%20join%20back.webp"
                      alt="Background" class="w-full max-w-sm mx-auto md:mx-0" />
@@ -184,7 +186,7 @@
     </div>
 
     <!-- Profit Section -->
-    <div class="section_profit font-sans py-12 md:py-20 px-4">
+    <div class="section_profit font-sans py-12 md:py-20 px-4" data-aos="fade-up" data-aos-duration="800">
       <div class="px-4 sm:px-8 max-w-screen-xl mx-auto">
         <div class="grid md:grid-cols-2 gap-8 md:gap-12 items-center">
 
@@ -201,7 +203,7 @@
             <div class="text-sm uppercase tracking-wider text-pink-400 font-semibold">Connect, Collaborate, and Grow</div>
             <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold leading-tight">Learn How to Monetize, Distribute, and Navigate Music Industry!</h1>
             <p class="text-lg text-gray-300">Effortlessly track, collect, and manage your royalties. We ensure that you're fairly compensated for your creative work, so you can focus on what you do best – making music.</p>
-            <a href="https://www.artists.grootin.in/" 
+            <a href="login.php" 
                class="inline-block bg-pink-600 hover:bg-pink-700 text-white font-medium text-lg px-6 py-3 rounded-lg transition duration-300">
               Join Community
             </a>
@@ -211,23 +213,23 @@
     </div>
 
     <!-- Community Section -->
-    <div class="font-sans bg-gradient-to-r from-[#121212] to-[#2f1736] py-12 md:py-20 px-4">
+    <div class="font-sans bg-gradient-to-r from-[#121212] to-[#2f1736] py-12 md:py-20 px-4" data-aos="fade-up" data-aos-duration="800">
       <div class="px-4 sm:px-8 max-w-screen-xl mx-auto">
         <div class="grid md:grid-cols-2 gap-8 md:gap-12 items-center">
 
           <!-- Left Text Content -->
-          <div class="space-y-6">
+          <div class="space-y-6" data-aos="fade-up" data-aos-duration="800">
             <div class="text-sm uppercase tracking-wider text-pink-400 font-semibold">Together We Thrive</div>
             <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold leading-tight">Find Mentorship and a Creative Tribe in Our Community!</h1>
             <p class="text-lg text-gray-300">Learn, Share, and Inspire - Where Artists Unite to Create Magic Together!</p>
-            <a href="" 
+            <a href="login.php" 
                class="inline-block bg-pink-600 hover:bg-pink-700 text-white font-medium text-lg px-6 py-3 rounded-lg transition duration-300">
               Join Community
             </a>
           </div>
 
           <!-- Right Image and Decorative Elements -->
-          <div class="relative mt-8 md:mt-0">
+          <div class="relative mt-8 md:mt-0" data-aos="fade-up" data-aos-duration="800">
             <img src="https://cdn.prod.website-files.com/647dc8f9284342c55bc86dad/65d041359b5d8d4dd1be85e5_map.webp" 
                  loading="lazy" 
                  alt="Mentorship Map"
@@ -243,7 +245,7 @@
     </div>
 
     <!-- Horizontal Scroll Activities Section -->
-    <div class="w-full max-w-7xl mx-auto px-4 py-12 md:py-16 overflow-hidden relative">
+    <div class="w-full max-w-7xl mx-auto px-4 py-12 md:py-16 overflow-hidden relative" data-aos="fade-up" data-aos-duration="800">
       <h2 class="text-3xl md:text-5xl font-bold text-center text-white mb-8">Our Activities</h2>
 
       <!-- Gradient Fade -->
@@ -256,7 +258,7 @@
       </div>
 
       <!-- Navigation Controls for Mobile -->
-      <div class="flex justify-center mt-6 gap-4 md:hidden">
+      <div class="flex justify-center mt-6 gap-4 md:hidden" data-aos="fade-up" data-aos-duration="800">
         <button id="scroll-left" class="px-4 py-2 bg-white/10 rounded-full hover:bg-white/20 transition-all">
           ← Prev
         </button>
@@ -267,7 +269,7 @@
     </div>
 
     <!-- Email Signup Section -->
-    <div class="bg-gradient-to-r from-[#121212] to-[#2f1736] rounded-2xl p-6 md:p-12 border border-white/10 my-12 mx-4 md:mx-8 lg:mx-auto lg:max-w-6xl">
+    <div class="bg-gradient-to-r from-[#121212] to-[#2f1736] rounded-2xl p-6 md:p-12 border border-white/10 my-12 mx-4 md:mx-8 lg:mx-auto lg:max-w-6xl" data-aos="fade-up" data-aos-duration="800">
       <div class="max-w-4xl mx-auto text-center">
         <h3 class="text-2xl md:text-3xl font-bold text-white mb-6">Join Our Creative Community</h3>
         <p class="text-white/80 text-base md:text-lg mb-8">
@@ -287,7 +289,7 @@
     </div>
 
     <!-- Footer -->
-    <footer class="bg-[#2c3e50] text-white py-10 md:py-16 px-4">
+    <footer class="bg-[#2c3e50] text-white py-10 md:py-16 px-4" data-aos="fade-up" data-aos-duration="800">
       <div class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
         
         <!-- Logo Section -->
@@ -357,8 +359,10 @@
     </div>
   </div>
 
+  <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
   
   <script>
+    AOS.init();
     // Mobile Menu Toggle
     document.getElementById('mobile-menu-button').addEventListener('click', function() {
       const menu = document.getElementById('nav-menu');
@@ -422,7 +426,7 @@
       // Create duplicate cards for infinite scroll effect
       const duplicate = createCard(activity);
       duplicate.setAttribute('aria-hidden', 'true');
-      carousel.appendChild(duplicate);
+      // carousel.appendChild(duplicate);
     });
 
     // Scrolling functionality
