@@ -107,7 +107,6 @@
   </form>
 </div>
 
-
     <!-- Filter -->
     <div class="mb-4">
       <label class="block font-semibold mb-1" style="color: white">Filter by Type:</label>
