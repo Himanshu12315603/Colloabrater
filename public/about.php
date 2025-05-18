@@ -161,10 +161,10 @@
     <div>
       <h6 class="font-semibold text-white mb-4">Follow Us</h6>
       <ul class="space-y-2">
-        <li><a href="https://instagram.com" class="hover:text-gray-300">Facebook</a></li>
-        <li><a href="#" class="hover:text-gray-300">Twitter</a></li>
-        <li><a href="#" class="hover:text-gray-300">Instagram</a></li>
-        <li><a href="#" class="hover:text-gray-300">LinkedIn</a></li>
+        <li><a href="https://facebook.com" class="hover:text-gray-300">Facebook</a></li>
+        <li><a href="https://x.com" class="hover:text-gray-300">Twitter</a></li>
+        <li><a href="https://instagram.com" class="hover:text-gray-300">Instagram</a></li>
+        <li><a href="https://linkedin.com" class="hover:text-gray-300">LinkedIn</a></li>
       </ul>
     </div>
   </footer>
