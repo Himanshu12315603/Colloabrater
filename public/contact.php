@@ -76,10 +76,10 @@
         <div class="bg-gray-900 rounded-lg p-6 flex items-center" data-aos="fade-right" data-aos-duration="1200">
           <div class="highlight-btn rounded-md py-2 px-4 mr-4 font-semibold">Social Media</div>
           <div class="text-gray-300 text-sm space-x-4">
-            <a href="facebook.com" class="hover:text-gray-300">Facebook</a>
-            <a href="#" class="hover:text-gray-300">Twitter</a>
-            <a href="#" class="hover:text-gray-300">Instagram</a>
-            <a href="#" class="hover:text-gray-300">LinkedIn</a>
+            <a href="https://facebook.com" class="hover:text-gray-300">Facebook</a>
+            <a href="https://x.com" class="hover:text-gray-300">Twitter</a>
+            <a href="https://Instagram.com" class="hover:text-gray-300">Instagram</a>
+            <a href="https://LinkedIn.com" class="hover:text-gray-300">LinkedIn</a>
           </div>
         </div>
       </div>
