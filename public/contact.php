@@ -96,7 +96,7 @@
       <h3 class="text-xl font-semibold text-white mt-6">Nitish Kumar</h3>
       <p class="text-orange-400 mb-4">Cheif Technical Officer  <br>Frontend Developer <br>UI/UX Designer</p>
       <div class="flex justify-center space-x-4 text-gray-400">
-        <a href="#" class="hover:text-orange-400 transition"><i class="fab fa-linkedin"></i></a>
+        <a href="https://linkedin.com" class="hover:text-orange-400 transition"><i class="fab fa-linkedin"></i></a>
         <a href="#" class="hover:text-orange-400 transition"><i class="fab fa-twitter"></i></a>
         <a href="#" class="hover:text-orange-400 transition"><i class="fab fa-instagram"></i></a>
       </div>
