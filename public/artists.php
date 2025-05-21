@@ -54,8 +54,7 @@ function getInitialsAvatar($name) {
         class="artist-card bg-white/10 backdrop-blur-md border border-white/20 rounded-2xl p-6 shadow-lg hover:scale-105 transition-transform duration-300"
         data-id="<?= $artist['id'] ?>"
         data-name="<?= htmlspecialchars($artist['full_name']) ?>"
-        data-is-current="<?= $artist['id'] == $currentUserId ? '1' : '0' ?>"
-      >
+        data-is-current="<?= $artist['id'] == $currentUserId ? '1' : '0' ?>">
         <div class="flex flex-col items-center text-center">
           <img src="<?= getInitialsAvatar($artist['full_name']) ?>" alt="Avatar" class="w-24 h-24 rounded-full mb-4 shadow-md border-2 border-white" />
           <h2 class="text-xl font-semibold text-white"><?= htmlspecialchars($artist['full_name']) ?></h2>
