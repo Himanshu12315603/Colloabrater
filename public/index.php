@@ -269,7 +269,7 @@
     </div>
 
     <!-- Email Signup Section -->
-    <div class="bg-gradient-to-r from-[#121212] to-[#2f1736] rounded-2xl p-6 md:p-12 border border-white/10 my-12 mx-4 md:mx-8 lg:mx-auto lg:max-w-6xl" data-aos="fade-up" data-aos-duration="800">
+    <div class="bg-gradient-to-r from-[#121212] to-[#2f1736] rounded-2xl p-6 md:p-12 border border-white/10 my-12 mx-4 md:mx-8 lg:mx-auto lg:max-w-6xl" data-aos="fade-up" >
       <div class="max-w-4xl mx-auto text-center">
         <h3 class="text-2xl md:text-3xl font-bold text-white mb-6">Join Our Creative Community</h3>
         <p class="text-white/80 text-base md:text-lg mb-8">
@@ -289,7 +289,7 @@
     </div>
 
     <!-- Footer -->
-    <footer class="bg-[#2c3e50] text-white py-10 md:py-16 px-4" data-aos="fade-up" data-aos-duration="800">
+    <footer class="bg-[#2c3e50] text-white py-10 md:py-16 px-4"  >
       <div class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
         
         <!-- Logo Section -->
