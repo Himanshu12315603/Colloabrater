@@ -39,7 +39,7 @@
     <div class="max-w-7xl mx-auto px-6 flex justify-between items-center">
       <h1 class="text-2xl font-extrabold text-white">Gravity</h1>
       <nav class="space-x-6 text-sm font-medium text-white">
-        <a href="dashboard.php" class="hover:text-[#ff8a4c] transition">Home</a>
+        <a href="javascript:history.back()" class="hover:text-[#ff8a4c] transition">Home</a>
         <!-- <a href="about.php" class="hover:text-[#ff8a4c] transition">About</a>
         <a href="contact.php" class="hover:text-[#ff8a4c] transition">Contact</a>
         <a href="resources.php" class="text-[#ff8a4c] font-semibold underline">Resources</a> -->

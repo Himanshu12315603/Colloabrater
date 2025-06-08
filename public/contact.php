@@ -39,7 +39,7 @@
       <a href="contact.php" class="hover:text-gray-300">Contact Us</a>
     </nav>
     <div class="space-x-4">
-      <a href="dashboard.php"> <button class="hidden md:inline-block text-gray-300  hover:text-white" >Home</button></a>
+      <a href="javascript:history.back()"> <button class="hidden md:inline-block text-gray-300  hover:text-white" >Home</button></a>
      
     </div>
     <div class="md:hidden">
